@@ -1,3 +1,27 @@
+![A map of the regions for each of Vivillon's form centered on the Prime Meridian](pregenerated/0/map_en_0.png)
+([日本語](pregenerated/0/map_ja_0.png)
+| [English](pregenerated/0/map_en_0.png)
+| [Deutsch](pregenerated/0/map_de_0.png)
+| [Français](pregenerated/0/map_fr_0.png)
+| [Italiano](pregenerated/0/map_it_0.png)
+| [Español](pregenerated/0/map_es_0.png)
+| [한국어](pregenerated/0/map_ko_0.png)
+| [繁體中文](pregenerated/0/map_zh-Hant_0.png)
+| [简体中文](pregenerated/0/map_zh-Hans_0.png))
+
+![A map of the regions for each of Vivillon's form centered on the Pacific Ocean](pregenerated/150/map_ja_150.png)
+([日本語](pregenerated/150/map_ja_150.png)
+| [English](pregenerated/150/map_en_150.png)
+| [Deutsch](pregenerated/150/map_de_150.png)
+| [Français](pregenerated/150/map_fr_150.png)
+| [Italiano](pregenerated/150/map_it_150.png)
+| [Español](pregenerated/150/map_es_150.png)
+| [한국어](pregenerated/150/map_ko_150.png)
+| [繁體中文](pregenerated/150/map_zh-Hant_150.png)
+| [简体中文](pregenerated/150/map_zh-Hans_150.png))
+
+---
+
 An [equirectangular projection](https://en.wikipedia.org/wiki/Equirectangular_projection) map of the possible countries/regions corresponding to each [Vivillon](https://bulbapedia.bulbagarden.net/wiki/Vivillon_(Pokémon)) form.
 The dots indicate the latitude/longitude coordinates associated with each country/region in the Nintendo 3DS system software.
 Hatched countries/regions cannot be selected on a Nintendo 3DS system from any region.
@@ -39,3 +63,11 @@ The following subdivisions in the GADM database are not used by the Nintendo 3DS
 
 The Nintendo 3DS system refers to [Tierra del Fuego](https://en.wikipedia.org/wiki/Tierra_del_Fuego_Province,_Argentina) and [Magallanes](https://en.wikipedia.org/wiki/Magallanes_Region) by their official names as "Tierra del Fuego, Antártida e Islas del Atlántico Sur" and "Magallanes y la Antártica Chilena", which would include disputed claims on the [Falkland Islands](https://en.wikipedia.org/wiki/Falkland_Islands), [South Georgia and the South Sandwich Islands](https://en.wikipedia.org/wiki/South_Georgia_and_the_South_Sandwich_Islands), and [Antarctica](https://en.wikipedia.org/wiki/Antarctica).
 These claims are not included on the map.
+
+---
+
+To create the maps locally, clone the repository and run the following in the project directory:
+```commandline
+pip install -r requirements.txt
+python make_map.py
+```
