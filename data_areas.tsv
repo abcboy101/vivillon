@@ -1,0 +1,1551 @@
+GID_0	GID_1	GID_2	COUNTRY	NAME_1	NAME_2	Category
+ABW	-	-	Aruba	-	-	Archipelago Pattern
+AFG	-	-	Afghanistan	-	-	Cannot be selected
+AGO	-	-	Angola	-	-	Cannot be selected
+AIA	-	-	Anguilla	-	-	Archipelago Pattern
+ALA	-	-	Åland	-	-	Polar Pattern
+ALB	ALB.1_1	-	Albania	Berat	-	Marine Pattern
+ALB	ALB.2_1	-	Albania	Dibër	-	Marine Pattern
+ALB	ALB.3_1	-	Albania	Durrës	-	Marine Pattern
+ALB	ALB.4_1	-	Albania	Elbasan	-	Marine Pattern
+ALB	ALB.5_1	-	Albania	Fier	-	Marine Pattern
+ALB	ALB.6_1	-	Albania	Gjirokastër	-	Marine Pattern
+ALB	ALB.7_1	-	Albania	Korçë	-	Marine Pattern
+ALB	ALB.8_1	-	Albania	Kukës	-	Marine Pattern
+ALB	ALB.9_1	-	Albania	Lezhë	-	Marine Pattern
+ALB	ALB.10_1	-	Albania	Shkodër	-	Marine Pattern
+ALB	ALB.11_1	-	Albania	Tiranë	-	Marine Pattern
+ALB	ALB.12_1	-	Albania	Vlorë	-	Marine Pattern
+AND	-	-	Andorra	-	-	Meadow Pattern
+ARE	ARE.1_1	-	United Arab Emirates	Abu Dhabi	-	Sandstorm Pattern
+ARE	ARE.2_1	-	United Arab Emirates	Ajman	-	Sandstorm Pattern
+ARE	ARE.3_1	-	United Arab Emirates	Dubai	-	Sandstorm Pattern
+ARE	ARE.4_1	-	United Arab Emirates	Fujairah	-	Sandstorm Pattern
+ARE	ARE.5_1	-	United Arab Emirates	Ras Al-Khaimah	-	Sandstorm Pattern
+ARE	ARE.6_1	-	United Arab Emirates	Sharjah	-	Sandstorm Pattern
+ARE	ARE.7_1	-	United Arab Emirates	Umm al-Qaywayn	-	Sandstorm Pattern
+ARG	ARG.1_1	-	Argentina	Buenos Aires	-	Savanna Pattern
+ARG	ARG.2_1	-	Argentina	Catamarca	-	Savanna Pattern
+ARG	ARG.3_1	-	Argentina	Chaco	-	Savanna Pattern
+ARG	ARG.4_1	-	Argentina	Chubut	-	Continental Pattern
+ARG	ARG.5_1	-	Argentina	Ciudad de Buenos Aires	-	Savanna Pattern
+ARG	ARG.6_1	-	Argentina	Córdoba	-	Continental Pattern
+ARG	ARG.7_1	-	Argentina	Corrientes	-	Savanna Pattern
+ARG	ARG.8_1	-	Argentina	Entre Ríos	-	Continental Pattern
+ARG	ARG.9_1	-	Argentina	Formosa	-	Savanna Pattern
+ARG	ARG.10_1	-	Argentina	Jujuy	-	Savanna Pattern
+ARG	ARG.11_1	-	Argentina	La Pampa	-	Continental Pattern
+ARG	ARG.12_1	-	Argentina	La Rioja	-	Savanna Pattern
+ARG	ARG.13_1	-	Argentina	Mendoza	-	Continental Pattern
+ARG	ARG.14_1	-	Argentina	Misiones	-	Savanna Pattern
+ARG	ARG.15_1	-	Argentina	Neuquén	-	Continental Pattern
+ARG	ARG.16_1	-	Argentina	Río Negro	-	Continental Pattern
+ARG	ARG.17_1	-	Argentina	Salta	-	Savanna Pattern
+ARG	ARG.18_1	-	Argentina	San Juan	-	Continental Pattern
+ARG	ARG.19_1	-	Argentina	San Luis	-	Continental Pattern
+ARG	ARG.20_1	-	Argentina	Santa Cruz	-	Polar Pattern
+ARG	ARG.21_1	-	Argentina	Santa Fe	-	Continental Pattern
+ARG	ARG.22_1	-	Argentina	Santiago del Estero	-	Savanna Pattern
+ARG	ARG.23_1	-	Argentina	Tierra del Fuego	-	Polar Pattern
+ARG	ARG.24_1	-	Argentina	Tucumán	-	Savanna Pattern
+ARM	-	-	Armenia	-	-	Cannot be selected
+ASM	-	-	American Samoa	-	-	Cannot be selected
+ATA	-	-	Antarctica	-	-	Cannot be selected
+ATF	-	-	French Southern Territories	-	-	Cannot be selected
+ATG	ATG.1_1	-	Antigua and Barbuda	Barbuda	-	Archipelago Pattern
+ATG	ATG.2_1	-	Antigua and Barbuda	Redonda	-	Cannot be selected
+ATG	ATG.3_1	-	Antigua and Barbuda	Saint George	-	Archipelago Pattern
+ATG	ATG.4_1	-	Antigua and Barbuda	Saint John	-	Archipelago Pattern
+ATG	ATG.5_1	-	Antigua and Barbuda	Saint Mary	-	Archipelago Pattern
+ATG	ATG.6_1	-	Antigua and Barbuda	Saint Paul	-	Archipelago Pattern
+ATG	ATG.7_1	-	Antigua and Barbuda	Saint Peter	-	Archipelago Pattern
+ATG	ATG.8_1	-	Antigua and Barbuda	Saint Philip	-	Archipelago Pattern
+AUS	AUS.1_1	-	Australia	Ashmore and Cartier Islands	-	Cannot be selected
+AUS	AUS.2_1	-	Australia	Australian Capital Territory	-	River Pattern
+AUS	AUS.3_1	-	Australia	Coral Sea Islands Territory	-	Cannot be selected
+AUS	AUS.4_1	-	Australia	Jervis Bay Territory	-	River Pattern
+AUS	AUS.5_1	-	Australia	New South Wales	-	River Pattern
+AUS	AUS.6_1	-	Australia	Northern Territory	-	Sun Pattern
+AUS	AUS.7_1	-	Australia	Queensland	-	River Pattern
+AUS	AUS.8_1	-	Australia	South Australia	-	River Pattern
+AUS	AUS.9_1	-	Australia	Tasmania	-	Garden Pattern
+AUS	AUS.10_1	-	Australia	Victoria	-	River Pattern
+AUS	AUS.11_1	-	Australia	Western Australia	-	River Pattern
+AUT	AUT.1_1	-	Austria	Burgenland	-	Marine Pattern
+AUT	AUT.2_1	-	Austria	Kärnten	-	Marine Pattern
+AUT	AUT.3_1	-	Austria	Niederösterreich	-	Marine Pattern
+AUT	AUT.4_1	-	Austria	Oberösterreich	-	Marine Pattern
+AUT	AUT.5_1	-	Austria	Salzburg	-	Marine Pattern
+AUT	AUT.6_1	-	Austria	Steiermark	-	Marine Pattern
+AUT	AUT.7_1	-	Austria	Tirol	-	Marine Pattern
+AUT	AUT.8_1	-	Austria	Vorarlberg	-	Meadow Pattern
+AUT	AUT.9_1	-	Austria	Wien	-	Marine Pattern
+AZE	-	-	Azerbaijan	-	-	High Plains Pattern
+BDI	-	-	Burundi	-	-	Cannot be selected
+BEL	BEL.1_1	-	Belgium	Bruxelles	-	Continental Pattern
+BEL	BEL.2_1	-	Belgium	Vlaanderen	-	Continental Pattern
+BEL	BEL.3_1	-	Belgium	Wallonie	-	Continental Pattern
+BEN	-	-	Benin	-	-	Cannot be selected
+BES	-	-	Bonaire, Sint Eustatius and Saba	-	-	Archipelago Pattern
+BFA	-	-	Burkina Faso	-	-	Cannot be selected
+BGD	-	-	Bangladesh	-	-	Cannot be selected
+BGR	BGR.1_1	-	Bulgaria	Blagoevgrad	-	Marine Pattern
+BGR	BGR.2_1	-	Bulgaria	Burgas	-	Marine Pattern
+BGR	BGR.3_1	-	Bulgaria	Dobrich	-	Marine Pattern
+BGR	BGR.4_1	-	Bulgaria	Gabrovo	-	Marine Pattern
+BGR	BGR.5_1	-	Bulgaria	Grad Sofiya	-	Marine Pattern
+BGR	BGR.6_1	-	Bulgaria	Haskovo	-	Marine Pattern
+BGR	BGR.7_1	-	Bulgaria	Kardzhali	-	Marine Pattern
+BGR	BGR.8_1	-	Bulgaria	Kyustendil	-	Marine Pattern
+BGR	BGR.9_1	-	Bulgaria	Lovech	-	Marine Pattern
+BGR	BGR.10_1	-	Bulgaria	Montana	-	Marine Pattern
+BGR	BGR.11_1	-	Bulgaria	Pazardzhik	-	Marine Pattern
+BGR	BGR.12_1	-	Bulgaria	Pernik	-	Marine Pattern
+BGR	BGR.13_1	-	Bulgaria	Pleven	-	Marine Pattern
+BGR	BGR.14_1	-	Bulgaria	Plovdiv	-	Marine Pattern
+BGR	BGR.15_1	-	Bulgaria	Razgrad	-	Marine Pattern
+BGR	BGR.16_1	-	Bulgaria	Ruse	-	Marine Pattern
+BGR	BGR.17_1	-	Bulgaria	Shumen	-	Marine Pattern
+BGR	BGR.18_1	-	Bulgaria	Silistra	-	Marine Pattern
+BGR	BGR.19_1	-	Bulgaria	Sliven	-	Marine Pattern
+BGR	BGR.20_1	-	Bulgaria	Smolyan	-	Marine Pattern
+BGR	BGR.21_1	-	Bulgaria	Sofia	-	Marine Pattern
+BGR	BGR.22_1	-	Bulgaria	Stara Zagora	-	Marine Pattern
+BGR	BGR.23_1	-	Bulgaria	Targovishte	-	Marine Pattern
+BGR	BGR.24_1	-	Bulgaria	Varna	-	Marine Pattern
+BGR	BGR.25_1	-	Bulgaria	Veliko Tarnovo	-	Marine Pattern
+BGR	BGR.26_1	-	Bulgaria	Vidin	-	Marine Pattern
+BGR	BGR.27_1	-	Bulgaria	Vratsa	-	Marine Pattern
+BGR	BGR.28_1	-	Bulgaria	Yambol	-	Marine Pattern
+BHR	-	-	Bahrain	-	-	Cannot be selected
+BHS	-	-	Bahamas	-	-	Archipelago Pattern
+BIH	BIH.1_1	-	Bosnia and Herzegovina	Br?ko	-	Marine Pattern
+BIH	BIH.2_1	-	Bosnia and Herzegovina	Federacija Bosna i Hercegovina	-	Marine Pattern
+BIH	BIH.3_1	-	Bosnia and Herzegovina	Repuplika Srpska	-	Marine Pattern
+BLM	-	-	Saint-Barthélemy	-	-	Cannot be selected
+BLR	-	-	Belarus	-	-	Cannot be selected
+BLZ	BLZ.1_1	-	Belize	Belize	-	Sun Pattern
+BLZ	BLZ.2_1	-	Belize	Cayo	-	Sun Pattern
+BLZ	BLZ.3_1	-	Belize	Corozal	-	Sun Pattern
+BLZ	BLZ.4_1	-	Belize	Orange Walk	-	Sun Pattern
+BLZ	BLZ.5_1	-	Belize	Stann Creek	-	Sun Pattern
+BLZ	BLZ.6_1	-	Belize	Toledo	-	Sun Pattern
+BMU	-	-	Bermuda	-	-	Modern Pattern
+BOL	BOL.3_1	-	Bolivia	Beni	-	Savanna Pattern
+BOL	BOL.1_1	-	Bolivia	Chuquisaca	-	Savanna Pattern
+BOL	BOL.2_1	-	Bolivia	Cochabamba	-	Savanna Pattern
+BOL	BOL.4_1	-	Bolivia	La Paz	-	Savanna Pattern
+BOL	BOL.5_1	-	Bolivia	Oruro	-	Savanna Pattern
+BOL	BOL.6_1	-	Bolivia	Pando	-	Savanna Pattern
+BOL	BOL.7_1	-	Bolivia	Potosí	-	Savanna Pattern
+BOL	BOL.8_1	-	Bolivia	Santa Cruz	-	Savanna Pattern
+BOL	BOL.9_1	-	Bolivia	Tarija	-	Savanna Pattern
+BRA	BRA.1_1	-	Brazil	Acre	-	Jungle Pattern
+BRA	BRA.2_1	-	Brazil	Alagoas	-	Savanna Pattern
+BRA	BRA.3_1	-	Brazil	Amapá	-	Jungle Pattern
+BRA	BRA.4_1	-	Brazil	Amazonas	-	Jungle Pattern
+BRA	BRA.5_1	-	Brazil	Bahia	-	Savanna Pattern
+BRA	BRA.6_1	-	Brazil	Ceará	-	Savanna Pattern
+BRA	BRA.7_1	-	Brazil	Distrito Federal	-	Savanna Pattern
+BRA	BRA.8_1	-	Brazil	Espírito Santo	-	Savanna Pattern
+BRA	BRA.9_1	-	Brazil	Goiás	-	Savanna Pattern
+BRA	BRA.10_1	-	Brazil	Maranhão	-	Savanna Pattern
+BRA	BRA.12_1	-	Brazil	Mato Grosso	-	Savanna Pattern
+BRA	BRA.11_1	-	Brazil	Mato Grosso do Sul	-	Savanna Pattern
+BRA	BRA.13_1	-	Brazil	Minas Gerais	-	Savanna Pattern
+BRA	BRA.14_1	-	Brazil	Pará	-	Savanna Pattern
+BRA	BRA.15_1	-	Brazil	Paraíba	-	Savanna Pattern
+BRA	BRA.16_1	-	Brazil	Paraná	-	Savanna Pattern
+BRA	BRA.17_1	-	Brazil	Pernambuco	-	Savanna Pattern
+BRA	BRA.18_1	-	Brazil	Piauí	-	Savanna Pattern
+BRA	BRA.19_1	-	Brazil	Rio de Janeiro	-	Savanna Pattern
+BRA	BRA.20_1	-	Brazil	Rio Grande do Norte	-	Savanna Pattern
+BRA	BRA.21_1	-	Brazil	Rio Grande do Sul	-	Savanna Pattern
+BRA	BRA.22_1	-	Brazil	Rondônia	-	Jungle Pattern
+BRA	BRA.23_1	-	Brazil	Roraima	-	Jungle Pattern
+BRA	BRA.24_1	-	Brazil	Santa Catarina	-	Savanna Pattern
+BRA	BRA.25_1	-	Brazil	São Paulo	-	Savanna Pattern
+BRA	BRA.26_1	-	Brazil	Sergipe	-	Savanna Pattern
+BRA	BRA.27_1	-	Brazil	Tocantins	-	Savanna Pattern
+BRB	-	-	Barbados	-	-	Archipelago Pattern
+BRN	-	-	Brunei	-	-	Cannot be selected
+BTN	-	-	Bhutan	-	-	Cannot be selected
+BVT	-	-	Bouvet Island	-	-	Cannot be selected
+BWA	-	-	Botswana	-	-	River Pattern
+CAF	-	-	Central African Republic	-	-	Cannot be selected
+CAN	CAN.1_1	-	Canada	Alberta	-	Polar Pattern
+CAN	CAN.2_1	-	Canada	British Columbia	-	High Plains Pattern
+CAN	CAN.3_1	-	Canada	Manitoba	-	Modern Pattern
+CAN	CAN.4_1	-	Canada	New Brunswick	-	Polar Pattern
+CAN	CAN.5_1	-	Canada	Newfoundland and Labrador	-	Polar Pattern
+CAN	CAN.6_1	-	Canada	Northwest Territories	-	Icy Snow Pattern
+CAN	CAN.7_1	-	Canada	Nova Scotia	-	Polar Pattern
+CAN	CAN.8_1	-	Canada	Nunavut	-	Icy Snow Pattern
+CAN	CAN.9_1	-	Canada	Ontario	-	Polar Pattern
+CAN	CAN.10_1	-	Canada	Prince Edward Island	-	Polar Pattern
+CAN	CAN.11_1	-	Canada	Québec	-	Polar Pattern
+CAN	CAN.12_1	-	Canada	Saskatchewan	-	Polar Pattern
+CAN	CAN.13_1	-	Canada	Yukon	-	Icy Snow Pattern
+CCK	-	-	Cocos Islands	-	-	Cannot be selected
+CHE	CHE.1_1	-	Switzerland	Aargau	-	Meadow Pattern
+CHE	CHE.2_1	-	Switzerland	Appenzell Ausserrhoden	-	Meadow Pattern
+CHE	CHE.3_1	-	Switzerland	Appenzell Innerrhoden	-	Meadow Pattern
+CHE	CHE.4_1	-	Switzerland	Basel-Landschaft	-	Meadow Pattern
+CHE	CHE.5_1	-	Switzerland	Basel-Stadt	-	Meadow Pattern
+CHE	CHE.6_1	-	Switzerland	Bern	-	Meadow Pattern
+CHE	CHE.7_1	-	Switzerland	Fribourg	-	Meadow Pattern
+CHE	CHE.8_1	-	Switzerland	Genève	-	Meadow Pattern
+CHE	CHE.9_1	-	Switzerland	Glarus	-	Meadow Pattern
+CHE	CHE.10_1	-	Switzerland	Graubünden	-	Meadow Pattern
+CHE	CHE.11_1	-	Switzerland	Jura	-	Meadow Pattern
+CHE	CHE.12_1	-	Switzerland	Lucerne	-	Meadow Pattern
+CHE	CHE.13_1	-	Switzerland	Neuchâtel	-	Meadow Pattern
+CHE	CHE.14_1	-	Switzerland	Nidwalden	-	Meadow Pattern
+CHE	CHE.15_1	-	Switzerland	Obwalden	-	Meadow Pattern
+CHE	CHE.16_1	-	Switzerland	Sankt Gallen	-	Meadow Pattern
+CHE	CHE.17_1	-	Switzerland	Schaffhausen	-	Meadow Pattern
+CHE	CHE.18_1	-	Switzerland	Schwyz	-	Meadow Pattern
+CHE	CHE.19_1	-	Switzerland	Solothurn	-	Meadow Pattern
+CHE	CHE.20_1	-	Switzerland	Thurgau	-	Meadow Pattern
+CHE	CHE.21_1	-	Switzerland	Ticino	-	Meadow Pattern
+CHE	CHE.22_1	-	Switzerland	Uri	-	Meadow Pattern
+CHE	CHE.23_1	-	Switzerland	Valais	-	Meadow Pattern
+CHE	CHE.24_1	-	Switzerland	Vaud	-	Meadow Pattern
+CHE	CHE.25_1	-	Switzerland	Zug	-	Meadow Pattern
+CHE	CHE.26_1	-	Switzerland	Zürich	-	Meadow Pattern
+CHL	CHL.2_1	-	Chile	Antofagasta	-	Marine Pattern
+CHL	CHL.3_1	-	Chile	Araucanía	-	Marine Pattern
+CHL	CHL.4_1	-	Chile	Arica y Parinacota	-	Cannot be selected
+CHL	CHL.5_1	-	Chile	Atacama	-	Marine Pattern
+CHL	CHL.1_1	-	Chile	Aysén del General Ibañez del Cam	-	Marine Pattern
+CHL	CHL.6_1	-	Chile	Bío-Bío	-	Marine Pattern
+CHL	CHL.7_1	-	Chile	Coquimbo	-	Marine Pattern
+CHL	CHL.8_1	-	Chile	Libertador General Bernardo O'Hi	-	Marine Pattern
+CHL	CHL.9_1	-	Chile	Los Lagos	-	Marine Pattern
+CHL	CHL.10_1	-	Chile	Los Ríos	-	Cannot be selected
+CHL	CHL.11_1	-	Chile	Magallanes y Antártica Chilena	-	Polar Pattern
+CHL	CHL.12_1	-	Chile	Maule	-	Marine Pattern
+CHL	CHL.13_1	-	Chile	Ñuble	-	Cannot be selected
+CHL	CHL.14_1	-	Chile	Santiago Metropolitan	-	Marine Pattern
+CHL	CHL.15_1	-	Chile	Tarapacá	-	Marine Pattern
+CHL	CHL.16_1	-	Chile	Valparaíso	-	Marine Pattern
+CHN	CHN.1_1	-	China	Anhui	-	Continental Pattern
+CHN	CHN.2_1	-	China	Beijing	-	Continental Pattern
+CHN	CHN.3_1	-	China	Chongqing	-	Monsoon Pattern
+CHN	CHN.4_1	-	China	Fujian	-	Continental Pattern
+CHN	CHN.5_1	-	China	Gansu	-	Continental Pattern
+CHN	CHN.6_1	-	China	Guangdong	-	Continental Pattern
+CHN	CHN.7_1	-	China	Guangxi	-	Monsoon Pattern
+CHN	CHN.8_1	-	China	Guizhou	-	Monsoon Pattern
+CHN	CHN.9_1	-	China	Hainan	-	Continental Pattern
+CHN	CHN.10_1	-	China	Hebei	-	Continental Pattern
+CHN	CHN.11_1	-	China	Heilongjiang	-	Polar Pattern
+CHN	CHN.12_1	-	China	Henan	-	Continental Pattern
+CHN	CHN.HKG	-	China	Hong Kong	-	Continental Pattern
+CHN	CHN.13_1	-	China	Hubei	-	Continental Pattern
+CHN	CHN.14_1	-	China	Hunan	-	Continental Pattern
+CHN	CHN.15_1	-	China	Jiangsu	-	Continental Pattern
+CHN	CHN.16_1	-	China	Jiangxi	-	Continental Pattern
+CHN	CHN.17_1	-	China	Jilin	-	Polar Pattern
+CHN	CHN.18_1	-	China	Liaoning	-	Polar Pattern
+CHN	CHN.MAC	-	China	Macau	-	Continental Pattern
+CHN	CHN.19_1	-	China	Nei Mongol	-	High Plains Pattern
+CHN	CHN.20_1	-	China	Ningxia Hui	-	Continental Pattern
+CHN	CHN.21_1	-	China	Qinghai	-	Continental Pattern
+CHN	CHN.22_1	-	China	Shaanxi	-	Continental Pattern
+CHN	CHN.23_1	-	China	Shandong	-	Continental Pattern
+CHN	CHN.24_1	-	China	Shanghai	-	Continental Pattern
+CHN	CHN.25_1	-	China	Shanxi	-	Continental Pattern
+CHN	CHN.26_1	-	China	Sichuan	-	Continental Pattern
+CHN	CHN.27_1	-	China	Tianjin	-	Continental Pattern
+CHN	CHN.28_1	-	China	Xinjiang Uygur	-	High Plains Pattern
+Z02	Z02.28_1	-	China	Xinjiang Uygur	-	High Plains Pattern
+Z03	Z03.28_1	-	China	Xinjiang Uygur	-	High Plains Pattern
+CHN	CHN.29_1	-	China	Xizang	-	Monsoon Pattern
+Z03	Z03.29_1	-	China	Xizang	-	Monsoon Pattern
+Z08	Z08.29_1	-	China	Xizang	-	Monsoon Pattern
+CHN	CHN.30_1	-	China	Yunnan	-	Monsoon Pattern
+CHN	CHN.31_1	-	China	Zhejiang	-	Continental Pattern
+CIV	-	-	Côte d'Ivoire	-	-	Cannot be selected
+CMR	-	-	Cameroon	-	-	Cannot be selected
+COD	-	-	Democratic Republic of the Congo	-	-	Cannot be selected
+COG	-	-	Republic of the Congo	-	-	Cannot be selected
+COK	-	-	Cook Islands	-	-	Cannot be selected
+COL	COL.1_2	-	Colombia	Amazonas	-	Jungle Pattern
+COL	COL.2_2	-	Colombia	Antioquia	-	Jungle Pattern
+COL	COL.3_2	-	Colombia	Arauca	-	Jungle Pattern
+COL	COL.4_2	-	Colombia	Atlántico	-	Archipelago Pattern
+COL	COL.5_2	-	Colombia	Bogotá D.C.	-	Jungle Pattern
+COL	COL.6_2	-	Colombia	Bolívar	-	Archipelago Pattern
+COL	COL.7_2	-	Colombia	Boyacá	-	Jungle Pattern
+COL	COL.8_2	-	Colombia	Caldas	-	Jungle Pattern
+COL	COL.9_2	-	Colombia	Caquetá	-	Jungle Pattern
+COL	COL.10_2	-	Colombia	Casanare	-	Jungle Pattern
+COL	COL.11_2	-	Colombia	Cauca	-	Jungle Pattern
+COL	COL.12_2	-	Colombia	Cesar	-	Archipelago Pattern
+COL	COL.13_2	-	Colombia	Chocó	-	Jungle Pattern
+COL	COL.14_2	-	Colombia	Córdoba	-	Jungle Pattern
+COL	COL.15_2	-	Colombia	Cundinamarca	-	Jungle Pattern
+COL	COL.16_2	-	Colombia	Guainía	-	Jungle Pattern
+COL	COL.17_2	-	Colombia	Guaviare	-	Jungle Pattern
+COL	COL.18_2	-	Colombia	Huila	-	Jungle Pattern
+COL	COL.19_2	-	Colombia	La Guajira	-	Archipelago Pattern
+COL	COL.20_2	-	Colombia	Magdalena	-	Archipelago Pattern
+COL	COL.21_2	-	Colombia	Meta	-	Jungle Pattern
+COL	COL.22_2	-	Colombia	Nariño	-	Jungle Pattern
+COL	COL.23_2	-	Colombia	Norte de Santander	-	Jungle Pattern
+COL	COL.24_2	-	Colombia	Putumayo	-	Jungle Pattern
+COL	COL.25_2	-	Colombia	Quindío	-	Jungle Pattern
+COL	COL.26_2	-	Colombia	Risaralda	-	Jungle Pattern
+COL	COL.27_1	-	Colombia	San Andrés y Providencia	-	Sun Pattern
+COL	COL.28_2	-	Colombia	Santander	-	Jungle Pattern
+COL	COL.29_2	-	Colombia	Sucre	-	Jungle Pattern
+COL	COL.30_2	-	Colombia	Tolima	-	Jungle Pattern
+COL	COL.31_2	-	Colombia	Valle del Cauca	-	Jungle Pattern
+COL	COL.32_2	-	Colombia	Vaupés	-	Jungle Pattern
+COL	COL.33_2	-	Colombia	Vichada	-	Jungle Pattern
+COM	-	-	Comoros	-	-	Cannot be selected
+CPV	-	-	Cabo Verde	-	-	Cannot be selected
+CRI	CRI.1_1	-	Costa Rica	Alajuela	-	Sun Pattern
+CRI	CRI.2_1	-	Costa Rica	Cartago	-	Jungle Pattern
+CRI	CRI.3_1	-	Costa Rica	Guanacaste	-	Sun Pattern
+CRI	CRI.4_1	-	Costa Rica	Heredia	-	Jungle Pattern
+CRI	CRI.5_1	-	Costa Rica	Limón	-	Jungle Pattern
+CRI	CRI.6_1	-	Costa Rica	Puntarenas	-	Jungle Pattern
+CRI	CRI.7_1	-	Costa Rica	San José	-	Jungle Pattern
+CUB	-	-	Cuba	-	-	Cannot be selected
+CUW	-	-	Curaçao	-	-	Archipelago Pattern
+CXR	-	-	Christmas Island	-	-	Cannot be selected
+CYM	-	-	Cayman Islands	-	-	Sun Pattern
+CYP	-	-	Cyprus	-	-	Sandstorm Pattern
+CZE	CZE.1_1	-	Czechia	Jiho?eský	-	Marine Pattern
+CZE	CZE.2_1	-	Czechia	Jihomoravský	-	Marine Pattern
+CZE	CZE.3_1	-	Czechia	Karlovarský	-	Continental Pattern
+CZE	CZE.4_1	-	Czechia	Kraj Vyso?ina	-	Marine Pattern
+CZE	CZE.5_1	-	Czechia	Královéhradecký	-	Continental Pattern
+CZE	CZE.6_1	-	Czechia	Liberecký	-	Continental Pattern
+CZE	CZE.7_1	-	Czechia	Moravskoslezský	-	Marine Pattern
+CZE	CZE.8_1	-	Czechia	Olomoucký	-	Marine Pattern
+CZE	CZE.9_1	-	Czechia	Pardubický	-	Continental Pattern
+CZE	CZE.10_1	-	Czechia	Plze?ský	-	Marine Pattern
+CZE	CZE.11_1	-	Czechia	Prague	-	Continental Pattern
+CZE	CZE.12_1	-	Czechia	St?edo?eský	-	Continental Pattern
+CZE	CZE.13_1	-	Czechia	Ústecký	-	Continental Pattern
+CZE	CZE.14_1	-	Czechia	Zlínský	-	Marine Pattern
+DEU	DEU.1_1	-	Germany	Baden-Württemberg	-	Meadow Pattern
+DEU	DEU.2_1	-	Germany	Bayern	-	Marine Pattern
+DEU	DEU.3_1	-	Germany	Berlin	-	Continental Pattern
+DEU	DEU.4_1	-	Germany	Brandenburg	-	Continental Pattern
+DEU	DEU.5_1	-	Germany	Bremen	-	Continental Pattern
+DEU	DEU.6_1	-	Germany	Hamburg	-	Continental Pattern
+DEU	DEU.7_1	-	Germany	Hessen	-	Continental Pattern
+DEU	DEU.8_1	-	Germany	Mecklenburg-Vorpommern	-	Continental Pattern
+DEU	DEU.9_1	-	Germany	Niedersachsen	-	Continental Pattern
+DEU	DEU.10_1	-	Germany	Nordrhein-Westfalen	-	Continental Pattern
+DEU	DEU.11_1	-	Germany	Rheinland-Pfalz	-	Meadow Pattern
+DEU	DEU.12_1	-	Germany	Saarland	-	Meadow Pattern
+DEU	DEU.14_1	-	Germany	Sachsen	-	Continental Pattern
+DEU	DEU.13_1	-	Germany	Sachsen-Anhalt	-	Continental Pattern
+DEU	DEU.15_1	-	Germany	Schleswig-Holstein	-	Continental Pattern
+DEU	DEU.16_1	-	Germany	Thüringen	-	Continental Pattern
+DJI	-	-	Djibouti	-	-	Sandstorm Pattern
+DMA	-	-	Dominica	-	-	Archipelago Pattern
+DNK	DNK.1_1	-	Denmark	Hovedstaden	-	Continental Pattern
+DNK	DNK.2_1	-	Denmark	Midtjylland	-	Continental Pattern
+DNK	DNK.3_1	-	Denmark	Nordjylland	-	Continental Pattern
+DNK	DNK.4_1	-	Denmark	Sjælland	-	Continental Pattern
+DNK	DNK.5_1	-	Denmark	Syddanmark	-	Continental Pattern
+DOM	DOM.1_1	-	Dominican Republic	Azua	-	Archipelago Pattern
+DOM	DOM.2_1	-	Dominican Republic	Bahoruco	-	Archipelago Pattern
+DOM	DOM.3_1	-	Dominican Republic	Barahona	-	Archipelago Pattern
+DOM	DOM.4_1	-	Dominican Republic	Dajabón	-	Archipelago Pattern
+DOM	DOM.5_1	-	Dominican Republic	Distrito Nacional	-	Archipelago Pattern
+DOM	DOM.6_1	-	Dominican Republic	Duarte	-	Archipelago Pattern
+DOM	DOM.7_1	-	Dominican Republic	El Seybo	-	Archipelago Pattern
+DOM	DOM.8_1	-	Dominican Republic	Espaillat	-	Archipelago Pattern
+DOM	DOM.9_1	-	Dominican Republic	Hato Mayor	-	Archipelago Pattern
+DOM	DOM.10_1	-	Dominican Republic	Independencia	-	Archipelago Pattern
+DOM	DOM.11_1	-	Dominican Republic	La Altagracia	-	Archipelago Pattern
+DOM	DOM.12_1	-	Dominican Republic	La Estrelleta	-	Archipelago Pattern
+DOM	DOM.13_1	-	Dominican Republic	La Romana	-	Archipelago Pattern
+DOM	DOM.14_1	-	Dominican Republic	La Vega	-	Archipelago Pattern
+DOM	DOM.15_1	-	Dominican Republic	María Trinidad Sánchez	-	Archipelago Pattern
+DOM	DOM.16_1	-	Dominican Republic	Monseñor Nouel	-	Archipelago Pattern
+DOM	DOM.17_1	-	Dominican Republic	Monte Cristi	-	Archipelago Pattern
+DOM	DOM.18_1	-	Dominican Republic	Monte Plata	-	Archipelago Pattern
+DOM	DOM.19_1	-	Dominican Republic	Pedernales	-	Archipelago Pattern
+DOM	DOM.20_1	-	Dominican Republic	Peravia	-	Archipelago Pattern
+DOM	DOM.21_1	-	Dominican Republic	Puerto Plata	-	Archipelago Pattern
+DOM	DOM.22_1	-	Dominican Republic	Salcedo	-	Archipelago Pattern
+DOM	DOM.23_1	-	Dominican Republic	Samaná	-	Archipelago Pattern
+DOM	DOM.24_1	-	Dominican Republic	San Cristóbal	-	Archipelago Pattern
+DOM	DOM.25_1	-	Dominican Republic	San José de Ocoa	-	Cannot be selected
+DOM	DOM.26_1	-	Dominican Republic	San Juan	-	Archipelago Pattern
+DOM	DOM.27_1	-	Dominican Republic	San Pedro de Macorís	-	Archipelago Pattern
+DOM	DOM.28_1	-	Dominican Republic	Sánchez Ramírez	-	Archipelago Pattern
+DOM	DOM.30_1	-	Dominican Republic	Santiago	-	Archipelago Pattern
+DOM	DOM.29_1	-	Dominican Republic	Santiago Rodríguez	-	Archipelago Pattern
+DOM	DOM.31_1	-	Dominican Republic	Santo Domingo	-	Cannot be selected
+DOM	DOM.32_1	-	Dominican Republic	Valverde	-	Archipelago Pattern
+DZA	-	-	Algeria	-	-	Cannot be selected
+ECU	ECU.1_1	-	Ecuador	Azuay	-	Jungle Pattern
+ECU	ECU.2_1	-	Ecuador	Bolivar	-	Jungle Pattern
+ECU	ECU.3_1	-	Ecuador	Cañar	-	Jungle Pattern
+ECU	ECU.4_1	-	Ecuador	Carchi	-	Jungle Pattern
+ECU	ECU.5_1	-	Ecuador	Chimborazo	-	Jungle Pattern
+ECU	ECU.6_1	-	Ecuador	Cotopaxi	-	Jungle Pattern
+ECU	ECU.7_1	-	Ecuador	El Oro	-	Jungle Pattern
+ECU	ECU.8_1	-	Ecuador	Esmeraldas	-	Jungle Pattern
+ECU	ECU.9_1	-	Ecuador	Galápagos	-	Jungle Pattern
+ECU	ECU.10_1	-	Ecuador	Guayas	-	Jungle Pattern
+ECU	ECU.11_1	-	Ecuador	Imbabura	-	Jungle Pattern
+ECU	ECU.12_1	-	Ecuador	Loja	-	Jungle Pattern
+ECU	ECU.13_1	-	Ecuador	Los Rios	-	Jungle Pattern
+ECU	ECU.14_1	-	Ecuador	Manabi	-	Jungle Pattern
+ECU	ECU.15_1	-	Ecuador	Morona Santiago	-	Jungle Pattern
+ECU	ECU.16_1	-	Ecuador	Napo	-	Jungle Pattern
+ECU	ECU.17_1	-	Ecuador	Orellana	-	Jungle Pattern
+ECU	ECU.18_1	-	Ecuador	Pastaza	-	Jungle Pattern
+ECU	ECU.19_1	-	Ecuador	Pichincha	-	Jungle Pattern
+ECU	ECU.20_1	-	Ecuador	Santa Elena	-	Jungle Pattern
+ECU	ECU.21_1	-	Ecuador	Santo Domingo de los Tsachilas	-	Jungle Pattern
+ECU	ECU.22_1	-	Ecuador	Sucumbios	-	Jungle Pattern
+ECU	ECU.23_1	-	Ecuador	Tungurahua	-	Jungle Pattern
+ECU	ECU.24_1	-	Ecuador	Zamora Chinchipe	-	Jungle Pattern
+EGY	-	-	Egypt	-	-	Cannot be selected
+ERI	-	-	Eritrea	-	-	Sandstorm Pattern
+ESH	-	-	Western Sahara	-	-	Cannot be selected
+ESP	ESP.1_1	-	Spain	Andalucía	-	Marine Pattern
+ESP	ESP.2_1	-	Spain	Aragón	-	Marine Pattern
+ESP	ESP.3_1	-	Spain	Cantabria	-	Marine Pattern
+ESP	ESP.4_1	-	Spain	Castilla-La Mancha	-	Marine Pattern
+ESP	ESP.5_1	-	Spain	Castilla y León	-	Marine Pattern
+ESP	ESP.6_1	-	Spain	Cataluña	-	Meadow Pattern
+ESP	ESP.7_1	-	Spain	Ceuta y Melilla	-	Marine Pattern
+ESP	ESP.8_1	-	Spain	Comunidad de Madrid	-	Marine Pattern
+ESP	ESP.9_1	-	Spain	Comunidad Foral de Navarra	-	Marine Pattern
+ESP	ESP.10_1	-	Spain	Comunidad Valenciana	-	Marine Pattern
+ESP	ESP.11_1	-	Spain	Extremadura	-	Marine Pattern
+ESP	ESP.12_1	-	Spain	Galicia	-	Marine Pattern
+ESP	ESP.13_1	-	Spain	Islas Baleares	-	Marine Pattern
+ESP	ESP.14_1	-	Spain	Islas Canarias	-	River Pattern
+ESP	ESP.15_1	-	Spain	La Rioja	-	Marine Pattern
+ESP	ESP.16_1	-	Spain	País Vasco	-	Marine Pattern
+ESP	ESP.17_1	-	Spain	Principado de Asturias	-	Marine Pattern
+ESP	ESP.18_1	-	Spain	Región de Murcia	-	Marine Pattern
+EST	-	-	Estonia	-	-	Continental Pattern
+ETH	-	-	Ethiopia	-	-	Cannot be selected
+FIN	FIN.1_1	FIN.1.1_1	Finland	Eastern Finland	North Karelia	Icy Snow Pattern
+FIN	FIN.1_1	FIN.1.2_1	Finland	Eastern Finland	North Savonia	Icy Snow Pattern
+FIN	FIN.1_1	FIN.1.3_1	Finland	Eastern Finland	Päijänne Tavastia	Icy Snow Pattern
+FIN	FIN.1_1	FIN.1.4_1	Finland	Eastern Finland	Southern Savonia	Icy Snow Pattern
+FIN	FIN.2_1	FIN.2.1_1	Finland	Lapland	Lapland	Icy Snow Pattern
+FIN	FIN.3_1	FIN.3.1_1	Finland	Oulu	Kainuu	Icy Snow Pattern
+FIN	FIN.3_1	FIN.3.2_1	Finland	Oulu	Northern Ostrobothnia	Icy Snow Pattern
+FIN	FIN.4_1	FIN.4.1_1	Finland	Southern Finland	Eastern Uusimaa	Icy Snow Pattern
+FIN	FIN.4_1	FIN.4.2_1	Finland	Southern Finland	Kymenlaakso	Icy Snow Pattern
+FIN	FIN.4_1	FIN.4.3_1	Finland	Southern Finland	Päijänne Tavastia	Icy Snow Pattern
+FIN	FIN.4_1	FIN.4.4_1	Finland	Southern Finland	South Karelia	Icy Snow Pattern
+FIN	FIN.4_1	FIN.4.5_1	Finland	Southern Finland	Uusimaa	Icy Snow Pattern
+FIN	FIN.5_1	FIN.5.1_1	Finland	Western Finland	Central Finland	Icy Snow Pattern
+FIN	FIN.5_1	FIN.5.2_1	Finland	Western Finland	Central Ostrobothnia	Icy Snow Pattern
+FIN	FIN.5_1	FIN.5.3_1	Finland	Western Finland	Finland Proper	Icy Snow Pattern
+FIN	FIN.5_1	FIN.5.4_1	Finland	Western Finland	Ostrobothnia	Icy Snow Pattern
+FIN	FIN.5_1	FIN.5.5_1	Finland	Western Finland	Päijänne Tavastia	Icy Snow Pattern
+FIN	FIN.5_1	FIN.5.6_1	Finland	Western Finland	Pirkanmaa	Icy Snow Pattern
+FIN	FIN.5_1	FIN.5.7_1	Finland	Western Finland	Satakunta	Icy Snow Pattern
+FIN	FIN.5_1	FIN.5.8_1	Finland	Western Finland	Southern Ostrobothnia	Icy Snow Pattern
+FIN	FIN.5_1	FIN.5.9_1	Finland	Western Finland	Tavastia Proper	Icy Snow Pattern
+FJI	-	-	Fiji	-	-	Cannot be selected
+FLK	-	-	Falkland Islands	-	-	Cannot be selected
+FRA	-	-	France	Alsace	-	Meadow Pattern
+FRA	-	-	France	Aquitaine	-	Marine Pattern
+FRA	-	-	France	Auvergne	-	Meadow Pattern
+FRA	-	-	France	Île-de-France	-	Meadow Pattern
+FRA	-	-	France	Basse-Normandie	-	Marine Pattern
+FRA	-	-	France	Bourgogne	-	Meadow Pattern
+FRA	-	-	France	Bretagne	-	Marine Pattern
+FRA	-	-	France	Centre	-	Meadow Pattern
+FRA	-	-	France	Champagne-Ardenne	-	Meadow Pattern
+FRA	-	-	France	Corse	-	Meadow Pattern
+FRA	-	-	France	Franche-Comté	-	Meadow Pattern
+FRA	-	-	France	Haute-Normandie	-	Meadow Pattern
+FRA	-	-	France	Languedoc-Roussillon	-	Meadow Pattern
+FRA	-	-	France	Limousin	-	Meadow Pattern
+FRA	-	-	France	Lorraine	-	Meadow Pattern
+FRA	-	-	France	Midi-Pyrénées	-	Meadow Pattern
+FRA	-	-	France	Nord-Pas-de-Calais	-	Continental Pattern
+FRA	-	-	France	Pays de la Loire	-	Marine Pattern
+FRA	-	-	France	Picardie	-	Meadow Pattern
+FRA	-	-	France	Poitou-Charentes	-	Meadow Pattern
+FRA	-	-	France	Provence-Alpes-Côte d'Azur	-	Meadow Pattern
+FRA	-	-	France	Rhône-Alpes	-	Meadow Pattern
+FRO	-	-	Faroe Islands	-	-	Tundra Pattern
+FSM	-	-	Micronesia	-	-	Cannot be selected
+GAB	-	-	Gabon	-	-	Cannot be selected
+GBR	GBR.2_1	-	United Kingdom	Northern Ireland	-	Garden Pattern
+GBR	GBR.3_1	-	United Kingdom	Scotland	-	Garden Pattern
+GBR	GBR.4_1	-	United Kingdom	Wales	-	Garden Pattern
+GBR	GBR.1_1	-	United Kingdom	NA	-	Garden Pattern
+NA	NA	-	NA	NA	-	Cannot be selected
+GEO	-	-	Georgia	-	-	Cannot be selected
+GGY	-	-	Guernsey	-	-	Marine Pattern
+GHA	-	-	Ghana	-	-	Cannot be selected
+GIB	-	-	Gibraltar	-	-	Marine Pattern
+GIN	-	-	Guinea	-	-	Cannot be selected
+GLP	-	-	Guadeloupe	-	-	Archipelago Pattern
+GMB	-	-	Gambia	-	-	Cannot be selected
+GNB	-	-	Guinea-Bissau	-	-	Cannot be selected
+GNQ	-	-	Equatorial Guinea	-	-	Cannot be selected
+GRC	GRC.1_1	GRC.1.1_1	Greece	Aegean	North Aegean	Marine Pattern
+GRC	GRC.1_1	GRC.1.2_1	Greece	Aegean	South Aegean	Marine Pattern
+GRC	GRC.2_1	GRC.2.1_1	Greece	Athos	Athos	Cannot be selected
+GRC	GRC.3_1	GRC.3.1_1	Greece	Attica	Attica	Marine Pattern
+GRC	GRC.4_1	GRC.4.1_1	Greece	Crete	Crete	Marine Pattern
+GRC	GRC.5_1	GRC.5.1_1	Greece	Epirus and Western Macedonia	Epirus	Marine Pattern
+GRC	GRC.5_1	GRC.5.2_1	Greece	Epirus and Western Macedonia	West Macedonia	Marine Pattern
+GRC	GRC.6_1	GRC.6.1_1	Greece	Macedonia and Thrace	Central Macedonia	Marine Pattern
+GRC	GRC.6_1	GRC.6.2_1	Greece	Macedonia and Thrace	East Macedonia and Thrace	Marine Pattern
+GRC	GRC.7_1	GRC.7.1_1	Greece	Peloponnese, Western Greece and	Ionian Islands	Marine Pattern
+GRC	GRC.7_1	GRC.7.2_1	Greece	Peloponnese, Western Greece and	Peloponnese	Marine Pattern
+GRC	GRC.7_1	GRC.7.3_1	Greece	Peloponnese, Western Greece and	West Greece	Marine Pattern
+GRC	GRC.8_1	GRC.8.1_1	Greece	Thessaly and Central Greece	Central Greece	Marine Pattern
+GRC	GRC.8_1	GRC.8.2_1	Greece	Thessaly and Central Greece	Thessaly	Marine Pattern
+GRD	-	-	Grenada	-	-	Archipelago Pattern
+GRL	-	-	Greenland	-	-	Icy Snow Pattern
+GTM	GTM.1_1	-	Guatemala	Alta Verapaz	-	Sun Pattern
+GTM	GTM.2_1	-	Guatemala	Baja Verapaz	-	Sun Pattern
+GTM	GTM.3_1	-	Guatemala	Chimaltenango	-	Sun Pattern
+GTM	GTM.4_1	-	Guatemala	Chiquimula	-	Sun Pattern
+GTM	GTM.5_1	-	Guatemala	El Progreso	-	Sun Pattern
+GTM	GTM.6_1	-	Guatemala	Escuintla	-	Sun Pattern
+GTM	GTM.7_1	-	Guatemala	Guatemala	-	Sun Pattern
+GTM	GTM.8_1	-	Guatemala	Huehuetenango	-	Sun Pattern
+GTM	GTM.9_1	-	Guatemala	Izabal	-	Sun Pattern
+GTM	GTM.10_1	-	Guatemala	Jalapa	-	Sun Pattern
+GTM	GTM.11_1	-	Guatemala	Jutiapa	-	Sun Pattern
+GTM	GTM.12_1	-	Guatemala	Petén	-	Sun Pattern
+GTM	GTM.13_1	-	Guatemala	Quezaltenango	-	Sun Pattern
+GTM	GTM.14_1	-	Guatemala	Quiché	-	Sun Pattern
+GTM	GTM.15_1	-	Guatemala	Retalhuleu	-	Sun Pattern
+GTM	GTM.16_1	-	Guatemala	Sacatepéquez	-	Sun Pattern
+GTM	GTM.17_1	-	Guatemala	San Marcos	-	Sun Pattern
+GTM	GTM.18_1	-	Guatemala	Santa Rosa	-	Sun Pattern
+GTM	GTM.19_1	-	Guatemala	Sololá	-	Sun Pattern
+GTM	GTM.20_1	-	Guatemala	Suchitepéquez	-	Sun Pattern
+GTM	GTM.21_1	-	Guatemala	Totonicapán	-	Sun Pattern
+GTM	GTM.22_1	-	Guatemala	Zacapa	-	Sun Pattern
+GUF	-	-	French Guiana	-	-	Jungle Pattern
+GUM	-	-	Guam	-	-	Cannot be selected
+GUY	GUY.1_1	-	Guyana	Barima-Waini	-	Jungle Pattern
+GUY	GUY.2_1	-	Guyana	Cuyuni-Mazaruni	-	Jungle Pattern
+GUY	GUY.3_1	-	Guyana	Demerara-Mahaica	-	Jungle Pattern
+GUY	GUY.4_1	-	Guyana	East Berbice-Corentyne	-	Jungle Pattern
+GUY	GUY.5_1	-	Guyana	Essequibo Islands-West Demerara	-	Jungle Pattern
+GUY	GUY.6_1	-	Guyana	Mahaica-Berbice	-	Jungle Pattern
+GUY	GUY.7_1	-	Guyana	Pomeroon-Supenaam	-	Jungle Pattern
+GUY	GUY.8_1	-	Guyana	Potaro-Siparuni	-	Jungle Pattern
+GUY	GUY.9_1	-	Guyana	Upper Demerara-Berbice	-	Jungle Pattern
+GUY	GUY.10_1	-	Guyana	Upper Takutu-Upper Essequibo	-	Jungle Pattern
+HMD	-	-	Heard Island and McDonald Island	-	-	Cannot be selected
+HND	HND.1_1	-	Honduras	Atlántida	-	Sun Pattern
+HND	HND.2_1	-	Honduras	Choluteca	-	Sun Pattern
+HND	HND.3_1	-	Honduras	Colón	-	Sun Pattern
+HND	HND.4_1	-	Honduras	Comayagua	-	Sun Pattern
+HND	HND.5_1	-	Honduras	Copán	-	Sun Pattern
+HND	HND.6_1	-	Honduras	Cortés	-	Sun Pattern
+HND	HND.7_1	-	Honduras	El Paraíso	-	Sun Pattern
+HND	HND.8_1	-	Honduras	Francisco Morazán	-	Sun Pattern
+HND	HND.9_1	-	Honduras	Gracias a Dios	-	Sun Pattern
+HND	HND.10_1	-	Honduras	Intibucá	-	Sun Pattern
+HND	HND.11_1	-	Honduras	Islas de la Bahía	-	Sun Pattern
+HND	HND.12_1	-	Honduras	La Paz	-	Sun Pattern
+HND	HND.13_1	-	Honduras	Lempira	-	Sun Pattern
+HND	HND.14_1	-	Honduras	Ocotepeque	-	Sun Pattern
+HND	HND.15_1	-	Honduras	Olancho	-	Sun Pattern
+HND	HND.16_1	-	Honduras	Santa Bárbara	-	Sun Pattern
+HND	HND.17_1	-	Honduras	Valle	-	Sun Pattern
+HND	HND.18_1	-	Honduras	Yoro	-	Sun Pattern
+HRV	HRV.1_1	-	Croatia	Bjelovarska-Bilogorska	-	Marine Pattern
+HRV	HRV.2_1	-	Croatia	Brodsko-Posavska	-	Marine Pattern
+HRV	HRV.3_1	-	Croatia	Dubrovacko-Neretvanska	-	Marine Pattern
+HRV	HRV.4_1	-	Croatia	Grad Zagreb	-	Marine Pattern
+HRV	HRV.5_1	-	Croatia	Istarska	-	Marine Pattern
+HRV	HRV.6_1	-	Croatia	Karlovacka	-	Marine Pattern
+HRV	HRV.7_1	-	Croatia	Koprivni?ko-Križeva?ka	-	Marine Pattern
+HRV	HRV.8_1	-	Croatia	Krapinsko-Zagorska	-	Marine Pattern
+HRV	HRV.9_1	-	Croatia	Licko-Senjska	-	Marine Pattern
+HRV	HRV.10_1	-	Croatia	Medimurska	-	Marine Pattern
+HRV	HRV.11_1	-	Croatia	Osjecko-Baranjska	-	Marine Pattern
+HRV	HRV.12_1	-	Croatia	Požeško-Slavonska	-	Marine Pattern
+HRV	HRV.13_1	-	Croatia	Primorsko-Goranska	-	Marine Pattern
+HRV	HRV.14_1	-	Croatia	Šibensko-Kninska	-	Marine Pattern
+HRV	HRV.15_1	-	Croatia	Sisacko-Moslavacka	-	Marine Pattern
+HRV	HRV.16_1	-	Croatia	Splitsko-Dalmatinska	-	Marine Pattern
+HRV	HRV.17_1	-	Croatia	Varaždinska	-	Marine Pattern
+HRV	HRV.18_1	-	Croatia	Viroviticko-Podravska	-	Marine Pattern
+HRV	HRV.19_1	-	Croatia	Vukovarsko-Srijemska	-	Marine Pattern
+HRV	HRV.20_1	-	Croatia	Zadarska	-	Marine Pattern
+HRV	HRV.21_1	-	Croatia	Zagreba?ka	-	Marine Pattern
+HTI	HTI.1_1	-	Haiti	Centre	-	Archipelago Pattern
+HTI	HTI.2_1	-	Haiti	Grand'Anse	-	Archipelago Pattern
+HTI	HTI.3_1	-	Haiti	L'Artibonite	-	Archipelago Pattern
+HTI	HTI.4_1	-	Haiti	Nippes	-	Archipelago Pattern
+HTI	HTI.7_1	-	Haiti	Nord	-	Archipelago Pattern
+HTI	HTI.5_1	-	Haiti	Nord-Est	-	Archipelago Pattern
+HTI	HTI.6_1	-	Haiti	Nord-Ouest	-	Archipelago Pattern
+HTI	HTI.8_1	-	Haiti	Ouest	-	Archipelago Pattern
+HTI	HTI.10_1	-	Haiti	Sud	-	Archipelago Pattern
+HTI	HTI.9_1	-	Haiti	Sud-Est	-	Archipelago Pattern
+HUN	HUN.1_1	-	Hungary	Bács-Kiskun	-	Marine Pattern
+HUN	HUN.2_1	-	Hungary	Baranya	-	Marine Pattern
+HUN	HUN.3_1	-	Hungary	Békés	-	Marine Pattern
+HUN	HUN.4_1	-	Hungary	Borsod-Abaúj-Zemplén	-	Marine Pattern
+HUN	HUN.5_1	-	Hungary	Budapest	-	Marine Pattern
+HUN	HUN.6_1	-	Hungary	Csongrád	-	Marine Pattern
+HUN	HUN.7_1	-	Hungary	Fejér	-	Marine Pattern
+HUN	HUN.8_1	-	Hungary	Gyor-Moson-Sopron	-	Marine Pattern
+HUN	HUN.9_1	-	Hungary	Hajdú-Bihar	-	Marine Pattern
+HUN	HUN.10_1	-	Hungary	Heves	-	Marine Pattern
+HUN	HUN.11_1	-	Hungary	Jász-Nagykun-Szolnok	-	Marine Pattern
+HUN	HUN.12_1	-	Hungary	Komárom-Esztergom	-	Marine Pattern
+HUN	HUN.13_1	-	Hungary	Nógrád	-	Marine Pattern
+HUN	HUN.14_1	-	Hungary	Pest	-	Marine Pattern
+HUN	HUN.15_1	-	Hungary	Somogy	-	Marine Pattern
+HUN	HUN.16_1	-	Hungary	Szabolcs-Szatmár-Bereg	-	Marine Pattern
+HUN	HUN.17_1	-	Hungary	Tolna	-	Marine Pattern
+HUN	HUN.18_1	-	Hungary	Vas	-	Marine Pattern
+HUN	HUN.19_1	-	Hungary	Veszprém	-	Marine Pattern
+HUN	HUN.20_1	-	Hungary	Zala	-	Marine Pattern
+IDN	-	-	Indonesia	-	-	Cannot be selected
+IMN	-	-	Isle of Man	-	-	Garden Pattern
+IND	IND.1_1	-	India	Andaman and Nicobar	-	Monsoon Pattern
+IND	IND.2_1	-	India	Andhra Pradesh	-	Monsoon Pattern
+IND	IND.3_1	-	India	Arunachal Pradesh	-	Cannot be selected
+Z07	Z07.3_1	-	India	Arunachal Pradesh	-	Cannot be selected
+IND	IND.4_1	-	India	Assam	-	Monsoon Pattern
+IND	IND.5_1	-	India	Bihar	-	Monsoon Pattern
+IND	IND.6_1	-	India	Chandigarh	-	Continental Pattern
+IND	IND.7_1	-	India	Chhattisgarh	-	Monsoon Pattern
+IND	IND.8_1	-	India	Dadra and Nagar Haveli	-	Monsoon Pattern
+IND	IND.9_1	-	India	Daman and Diu	-	Monsoon Pattern
+IND	IND.10_1	-	India	Goa	-	Monsoon Pattern
+IND	IND.11_1	-	India	Gujarat	-	Monsoon Pattern
+IND	IND.12_1	-	India	Haryana	-	Continental Pattern
+IND	IND.13_1	-	India	Himachal Pradesh	-	Continental Pattern
+Z04	Z04.13_1	-	India	Himachal Pradesh	-	Continental Pattern
+Z09	Z09.13_1	-	India	Himachal Pradesh	-	Continental Pattern
+Z01	Z01.14_1	-	India	Jammu and Kashmir	-	Cannot be selected
+IND	IND.15_1	-	India	Jharkhand	-	Monsoon Pattern
+IND	IND.16_1	-	India	Karnataka	-	Monsoon Pattern
+IND	IND.17_1	-	India	Kerala	-	Jungle Pattern
+IND	IND.18_1	-	India	Lakshadweep	-	Monsoon Pattern
+IND	IND.19_1	-	India	Madhya Pradesh	-	Monsoon Pattern
+IND	IND.20_1	-	India	Maharashtra	-	Monsoon Pattern
+IND	IND.21_1	-	India	Manipur	-	Monsoon Pattern
+IND	IND.22_1	-	India	Meghalaya	-	Monsoon Pattern
+IND	IND.23_1	-	India	Mizoram	-	Monsoon Pattern
+IND	IND.24_1	-	India	Nagaland	-	Monsoon Pattern
+IND	IND.25_1	-	India	NCT of Delhi	-	Monsoon Pattern
+IND	IND.26_1	-	India	Odisha	-	Monsoon Pattern
+IND	IND.27_1	-	India	Puducherry	-	Monsoon Pattern
+IND	IND.28_1	-	India	Punjab	-	Continental Pattern
+IND	IND.29_1	-	India	Rajasthan	-	Monsoon Pattern
+IND	IND.30_1	-	India	Sikkim	-	Monsoon Pattern
+IND	IND.31_1	-	India	Tamil Nadu	-	Monsoon Pattern
+IND	IND.32_1	-	India	Telangana	-	Cannot be selected
+IND	IND.33_1	-	India	Tripura	-	Monsoon Pattern
+IND	IND.34_1	-	India	Uttar Pradesh	-	Monsoon Pattern
+IND	IND.35_1	-	India	Uttarakhand	-	Continental Pattern
+Z05	Z05.35_1	-	India	Uttarakhand	-	Continental Pattern
+Z09	Z09.35_1	-	India	Uttarakhand	-	Continental Pattern
+IND	IND.36_1	-	India	West Bengal	-	Monsoon Pattern
+IOT	-	-	British Indian Ocean Territory	-	-	Cannot be selected
+IRL	IRL.1_1	-	Ireland	Carlow	-	Garden Pattern
+IRL	IRL.2_1	-	Ireland	Cavan	-	Garden Pattern
+IRL	IRL.3_1	-	Ireland	Clare	-	Garden Pattern
+IRL	IRL.5_1	-	Ireland	Donegal	-	Garden Pattern
+IRL	IRL.6_1	-	Ireland	Dublin	-	Garden Pattern
+IRL	IRL.7_1	-	Ireland	Galway	-	Garden Pattern
+IRL	IRL.8_1	-	Ireland	Kerry	-	Garden Pattern
+IRL	IRL.9_1	-	Ireland	Kildare	-	Garden Pattern
+IRL	IRL.10_1	-	Ireland	Kilkenny	-	Garden Pattern
+IRL	IRL.11_1	-	Ireland	Laois	-	Garden Pattern
+IRL	IRL.12_1	-	Ireland	Leitrim	-	Garden Pattern
+IRL	IRL.13_1	-	Ireland	Limerick	-	Garden Pattern
+IRL	IRL.14_1	-	Ireland	Longford	-	Garden Pattern
+IRL	IRL.15_1	-	Ireland	Louth	-	Garden Pattern
+IRL	IRL.16_1	-	Ireland	Mayo	-	Garden Pattern
+IRL	IRL.17_1	-	Ireland	Meath	-	Garden Pattern
+IRL	IRL.18_1	-	Ireland	Monaghan	-	Garden Pattern
+IRL	IRL.19_1	-	Ireland	Offaly	-	Garden Pattern
+IRL	IRL.20_1	-	Ireland	Roscommon	-	Garden Pattern
+IRL	IRL.21_1	-	Ireland	Sligo	-	Garden Pattern
+IRL	IRL.22_1	-	Ireland	Tipperary	-	Garden Pattern
+IRL	IRL.23_1	-	Ireland	Waterford	-	Garden Pattern
+IRL	IRL.24_1	-	Ireland	Westmeath	-	Garden Pattern
+IRL	IRL.25_1	-	Ireland	Wexford	-	Garden Pattern
+IRL	IRL.26_1	-	Ireland	Wicklow	-	Garden Pattern
+IRL	IRL.4_1	-	Ireland	NA	-	Garden Pattern
+IRN	-	-	Iran	-	-	Cannot be selected
+IRQ	-	-	Iraq	-	-	Cannot be selected
+ISL	-	-	Iceland	-	-	Tundra Pattern
+ISR	-	-	Israel	-	-	Cannot be selected
+ITA	ITA.1_1	-	Italy	Abruzzo	-	Marine Pattern
+ITA	ITA.2_1	-	Italy	Apulia	-	Marine Pattern
+ITA	ITA.3_1	-	Italy	Basilicata	-	Marine Pattern
+ITA	ITA.4_1	-	Italy	Calabria	-	Marine Pattern
+ITA	ITA.5_1	-	Italy	Campania	-	Marine Pattern
+ITA	ITA.6_1	-	Italy	Emilia-Romagna	-	Marine Pattern
+ITA	ITA.7_1	-	Italy	Friuli-Venezia Giulia	-	Marine Pattern
+ITA	ITA.8_1	-	Italy	Lazio	-	Marine Pattern
+ITA	ITA.9_1	-	Italy	Liguria	-	Meadow Pattern
+ITA	ITA.10_1	-	Italy	Lombardia	-	Meadow Pattern
+ITA	ITA.11_1	-	Italy	Marche	-	Marine Pattern
+ITA	ITA.12_1	-	Italy	Molise	-	Marine Pattern
+ITA	ITA.13_1	-	Italy	Piemonte	-	Meadow Pattern
+ITA	ITA.14_1	-	Italy	Sardegna	-	Marine Pattern
+ITA	ITA.15_1	-	Italy	Sicily	-	Marine Pattern
+ITA	ITA.16_1	-	Italy	Toscana	-	Marine Pattern
+ITA	ITA.17_1	-	Italy	Trentino-Alto Adige	-	Marine Pattern
+ITA	ITA.18_1	-	Italy	Umbria	-	Marine Pattern
+ITA	ITA.19_1	-	Italy	Valle d'Aosta	-	Meadow Pattern
+ITA	ITA.20_1	-	Italy	Veneto	-	Marine Pattern
+JAM	JAM.1_1	-	Jamaica	Clarendon	-	Archipelago Pattern
+JAM	JAM.2_1	-	Jamaica	Hanover	-	Archipelago Pattern
+JAM	JAM.3_1	-	Jamaica	Kingston	-	Archipelago Pattern
+JAM	JAM.4_1	-	Jamaica	Manchester	-	Archipelago Pattern
+JAM	JAM.5_1	-	Jamaica	Portland	-	Archipelago Pattern
+JAM	JAM.6_1	-	Jamaica	Saint Andrew	-	Archipelago Pattern
+JAM	JAM.7_1	-	Jamaica	Saint Ann	-	Archipelago Pattern
+JAM	JAM.8_1	-	Jamaica	Saint Catherine	-	Archipelago Pattern
+JAM	JAM.9_1	-	Jamaica	Saint Elizabeth	-	Archipelago Pattern
+JAM	JAM.10_1	-	Jamaica	Saint James	-	Archipelago Pattern
+JAM	JAM.11_1	-	Jamaica	Saint Mary	-	Archipelago Pattern
+JAM	JAM.12_1	-	Jamaica	Saint Thomas	-	Archipelago Pattern
+JAM	JAM.13_1	-	Jamaica	Trelawny	-	Archipelago Pattern
+JAM	JAM.14_1	-	Jamaica	Westmoreland	-	Archipelago Pattern
+JEY	-	-	Jersey	-	-	Marine Pattern
+JOR	-	-	Jordan	-	-	Cannot be selected
+JPN	JPN.1_1	-	Japan	Aichi	-	Elegant Pattern
+JPN	JPN.2_1	-	Japan	Akita	-	Elegant Pattern
+JPN	JPN.3_1	-	Japan	Aomori	-	Tundra Pattern
+JPN	JPN.4_1	-	Japan	Chiba	-	Elegant Pattern
+JPN	JPN.5_1	-	Japan	Ehime	-	Elegant Pattern
+JPN	JPN.6_1	-	Japan	Fukui	-	Elegant Pattern
+JPN	JPN.7_1	-	Japan	Fukuoka	-	Elegant Pattern
+JPN	JPN.8_1	-	Japan	Fukushima	-	Elegant Pattern
+JPN	JPN.9_1	-	Japan	Gifu	-	Elegant Pattern
+JPN	JPN.10_1	-	Japan	Gunma	-	Elegant Pattern
+JPN	JPN.11_1	-	Japan	Hiroshima	-	Elegant Pattern
+JPN	JPN.12_1	-	Japan	Hokkaido	-	Tundra Pattern
+JPN	JPN.13_1	-	Japan	Hy?go	-	Elegant Pattern
+JPN	JPN.14_1	-	Japan	Ibaraki	-	Elegant Pattern
+JPN	JPN.15_1	-	Japan	Ishikawa	-	Elegant Pattern
+JPN	JPN.16_1	-	Japan	Iwate	-	Elegant Pattern
+JPN	JPN.17_1	-	Japan	Kagawa	-	Elegant Pattern
+JPN	JPN.18_1	-	Japan	Kagoshima	-	Elegant Pattern
+JPN	JPN.19_1	-	Japan	Kanagawa	-	Elegant Pattern
+JPN	JPN.20_1	-	Japan	Kochi	-	Elegant Pattern
+JPN	JPN.21_1	-	Japan	Kumamoto	-	Elegant Pattern
+JPN	JPN.22_1	-	Japan	Kyoto	-	Elegant Pattern
+JPN	JPN.23_1	-	Japan	Mie	-	Elegant Pattern
+JPN	JPN.24_1	-	Japan	Miyagi	-	Elegant Pattern
+JPN	JPN.25_1	-	Japan	Miyazaki	-	Elegant Pattern
+JPN	JPN.26_1	-	Japan	Nagano	-	Elegant Pattern
+JPN	JPN.27_1	-	Japan	Naoasaki	-	Continental Pattern
+JPN	JPN.28_1	-	Japan	Nara	-	Elegant Pattern
+JPN	JPN.29_1	-	Japan	Niigata	-	Elegant Pattern
+JPN	JPN.30_1	-	Japan	Oita	-	Elegant Pattern
+JPN	JPN.31_1	-	Japan	Okayama	-	Elegant Pattern
+JPN	JPN.32_1	-	Japan	Okinawa	-	Monsoon Pattern
+JPN	JPN.33_1	-	Japan	Osaka	-	Elegant Pattern
+JPN	JPN.34_1	-	Japan	Saga	-	Elegant Pattern
+JPN	JPN.35_1	-	Japan	Saitama	-	Elegant Pattern
+JPN	JPN.36_1	-	Japan	Shiga	-	Elegant Pattern
+JPN	JPN.37_1	-	Japan	Shimane	-	Elegant Pattern
+JPN	JPN.38_1	-	Japan	Shizuoka	-	Elegant Pattern
+JPN	JPN.39_1	-	Japan	Tochigi	-	Elegant Pattern
+JPN	JPN.40_1	-	Japan	Tokushima	-	Elegant Pattern
+JPN	JPN.41_1	-	Japan	Tokyo	-	Elegant Pattern
+JPN	JPN.42_1	-	Japan	Tottori	-	Elegant Pattern
+JPN	JPN.43_1	-	Japan	Toyama	-	Elegant Pattern
+JPN	JPN.44_1	-	Japan	Wakayama	-	Elegant Pattern
+JPN	JPN.45_1	-	Japan	Yamagata	-	Elegant Pattern
+JPN	JPN.46_1	-	Japan	Yamaguchi	-	Elegant Pattern
+JPN	JPN.47_1	-	Japan	Yamanashi	-	Elegant Pattern
+KAZ	-	-	Kazakhstan	-	-	Cannot be selected
+KEN	-	-	Kenya	-	-	Cannot be selected
+KGZ	-	-	Kyrgyzstan	-	-	Cannot be selected
+KHM	-	-	Cambodia	-	-	Cannot be selected
+KIR	-	-	Kiribati	-	-	Cannot be selected
+KNA	KNA.1_1	-	Saint Kitts and Nevis	Christ Church Nichola Town	-	Archipelago Pattern
+KNA	KNA.2_1	-	Saint Kitts and Nevis	Saint Anne Sandy Point	-	Archipelago Pattern
+KNA	KNA.3_1	-	Saint Kitts and Nevis	Saint George Basseterre	-	Archipelago Pattern
+KNA	KNA.4_1	-	Saint Kitts and Nevis	Saint George Gingerland	-	Archipelago Pattern
+KNA	KNA.5_1	-	Saint Kitts and Nevis	Saint James Windward	-	Archipelago Pattern
+KNA	KNA.6_1	-	Saint Kitts and Nevis	Saint John Capisterre	-	Archipelago Pattern
+KNA	KNA.7_1	-	Saint Kitts and Nevis	Saint John Figtree	-	Archipelago Pattern
+KNA	KNA.8_1	-	Saint Kitts and Nevis	Saint Mary Cayon	-	Archipelago Pattern
+KNA	KNA.9_1	-	Saint Kitts and Nevis	Saint Paul Capisterre	-	Archipelago Pattern
+KNA	KNA.10_1	-	Saint Kitts and Nevis	Saint Paul Charlestown	-	Archipelago Pattern
+KNA	KNA.11_1	-	Saint Kitts and Nevis	Saint Peter Basseterre	-	Archipelago Pattern
+KNA	KNA.12_1	-	Saint Kitts and Nevis	Saint Thomas Lowland	-	Archipelago Pattern
+KNA	KNA.13_1	-	Saint Kitts and Nevis	Saint Thomas Middle Island	-	Archipelago Pattern
+KNA	KNA.14_1	-	Saint Kitts and Nevis	Trinity Palmetto Point	-	Archipelago Pattern
+KOR	KOR.1_1	-	South Korea	Busan	-	Continental Pattern
+KOR	KOR.2_1	-	South Korea	Chungcheongbuk-do	-	Continental Pattern
+KOR	KOR.3_1	-	South Korea	Chungcheongnam-do	-	Continental Pattern
+KOR	KOR.4_1	-	South Korea	Daegu	-	Continental Pattern
+KOR	KOR.5_1	-	South Korea	Daejeon	-	Continental Pattern
+KOR	KOR.6_1	-	South Korea	Gangwon-do	-	Continental Pattern
+KOR	KOR.7_1	-	South Korea	Gwangju	-	Continental Pattern
+KOR	KOR.8_1	-	South Korea	Gyeonggi-do	-	Continental Pattern
+KOR	KOR.9_1	-	South Korea	Gyeongsangbuk-do	-	Continental Pattern
+KOR	KOR.10_1	-	South Korea	Gyeongsangnam-do	-	Continental Pattern
+KOR	KOR.11_1	-	South Korea	Incheon	-	Continental Pattern
+KOR	KOR.12_1	-	South Korea	Jeju	-	Continental Pattern
+KOR	KOR.13_1	-	South Korea	Jeollabuk-do	-	Continental Pattern
+KOR	KOR.14_1	-	South Korea	Jeollanam-do	-	Continental Pattern
+KOR	KOR.15_1	-	South Korea	Sejong	-	Cannot be selected
+KOR	KOR.16_1	-	South Korea	Seoul	-	Continental Pattern
+KOR	KOR.17_1	-	South Korea	Ulsan	-	Continental Pattern
+KWT	-	-	Kuwait	-	-	Cannot be selected
+LAO	-	-	Laos	-	-	Cannot be selected
+LBN	-	-	Lebanon	-	-	Cannot be selected
+LBR	-	-	Liberia	-	-	Cannot be selected
+LBY	-	-	Libya	-	-	Cannot be selected
+LCA	-	-	Saint Lucia	-	-	Archipelago Pattern
+LIE	-	-	Liechtenstein	-	-	Meadow Pattern
+LKA	-	-	Sri Lanka	-	-	Cannot be selected
+LSO	LSO.1_1	-	Lesotho	Berea	-	River Pattern
+LSO	LSO.2_1	-	Lesotho	Butha-Buthe	-	River Pattern
+LSO	LSO.3_1	-	Lesotho	Leribe	-	River Pattern
+LSO	LSO.4_1	-	Lesotho	Mafeteng	-	River Pattern
+LSO	LSO.5_1	-	Lesotho	Maseru	-	River Pattern
+LSO	LSO.6_1	-	Lesotho	Mohale's Hoek	-	Archipelago Pattern
+LSO	LSO.7_1	-	Lesotho	Mokhotlong	-	River Pattern
+LSO	LSO.8_1	-	Lesotho	Qacha's Nek	-	Archipelago Pattern
+LSO	LSO.9_1	-	Lesotho	Quthing	-	Archipelago Pattern
+LSO	LSO.10_1	-	Lesotho	Thaba-Tseka	-	River Pattern
+LTU	LTU.1_1	-	Lithuania	Alytaus	-	Continental Pattern
+LTU	LTU.2_1	-	Lithuania	Kauno	-	Continental Pattern
+LTU	LTU.3_1	-	Lithuania	Klaipedos	-	Continental Pattern
+LTU	LTU.4_1	-	Lithuania	Marijampoles	-	Continental Pattern
+LTU	LTU.5_1	-	Lithuania	Panevezio	-	Continental Pattern
+LTU	LTU.6_1	-	Lithuania	Šiauliai	-	Continental Pattern
+LTU	LTU.7_1	-	Lithuania	Taurages	-	Continental Pattern
+LTU	LTU.8_1	-	Lithuania	Telšiai	-	Continental Pattern
+LTU	LTU.9_1	-	Lithuania	Utenos	-	Continental Pattern
+LTU	LTU.10_1	-	Lithuania	Vilniaus	-	Continental Pattern
+LUX	-	-	Luxembourg	-	-	Meadow Pattern
+LVA	-	-	Latvia	-	-	Continental Pattern
+MAF	-	-	Saint-Martin	-	-	Cannot be selected
+MAR	-	-	Morocco	-	-	Cannot be selected
+MCO	-	-	Monaco	-	-	Meadow Pattern
+MDA	-	-	Moldova	-	-	Cannot be selected
+MDG	-	-	Madagascar	-	-	Cannot be selected
+MDV	-	-	Maldives	-	-	Cannot be selected
+MEX	MEX.1_1	-	México	Aguascalientes	-	High Plains Pattern
+MEX	MEX.3_1	-	México	Baja California	-	High Plains Pattern
+MEX	MEX.2_1	-	México	Baja California Sur	-	High Plains Pattern
+MEX	MEX.4_1	-	México	Campeche	-	Sun Pattern
+MEX	MEX.5_1	-	México	Chiapas	-	Sun Pattern
+MEX	MEX.6_1	-	México	Chihuahua	-	High Plains Pattern
+MEX	MEX.7_1	-	México	Coahuila	-	High Plains Pattern
+MEX	MEX.8_1	-	México	Colima	-	Sun Pattern
+MEX	MEX.9_1	-	México	Distrito Federal	-	Sun Pattern
+MEX	MEX.10_1	-	México	Durango	-	High Plains Pattern
+MEX	MEX.11_1	-	México	Guanajuato	-	High Plains Pattern
+MEX	MEX.12_1	-	México	Guerrero	-	Sun Pattern
+MEX	MEX.13_1	-	México	Hidalgo	-	High Plains Pattern
+MEX	MEX.14_1	-	México	Jalisco	-	High Plains Pattern
+MEX	MEX.15_1	-	México	México	-	Sun Pattern
+MEX	MEX.16_1	-	México	Michoacán	-	Sun Pattern
+MEX	MEX.17_1	-	México	Morelos	-	Sun Pattern
+MEX	MEX.18_1	-	México	Nayarit	-	High Plains Pattern
+MEX	MEX.19_1	-	México	Nuevo León	-	High Plains Pattern
+MEX	MEX.20_1	-	México	Oaxaca	-	Sun Pattern
+MEX	MEX.21_1	-	México	Puebla	-	Sun Pattern
+MEX	MEX.22_1	-	México	Querétaro	-	High Plains Pattern
+MEX	MEX.23_1	-	México	Quintana Roo	-	Sun Pattern
+MEX	MEX.24_1	-	México	San Luis Potosí	-	High Plains Pattern
+MEX	MEX.25_1	-	México	Sinaloa	-	High Plains Pattern
+MEX	MEX.26_1	-	México	Sonora	-	High Plains Pattern
+MEX	MEX.27_1	-	México	Tabasco	-	Sun Pattern
+MEX	MEX.28_1	-	México	Tamaulipas	-	High Plains Pattern
+MEX	MEX.29_1	-	México	Tlaxcala	-	Sun Pattern
+MEX	MEX.30_1	-	México	Veracruz	-	Sun Pattern
+MEX	MEX.31_1	-	México	Yucatán	-	Archipelago Pattern
+MEX	MEX.32_1	-	México	Zacatecas	-	High Plains Pattern
+MHL	-	-	Marshall Islands	-	-	Cannot be selected
+MKD	-	-	North Macedonia	-	-	Marine Pattern
+MLI	-	-	Mali	-	-	River Pattern
+MLT	-	-	Malta	-	-	Marine Pattern
+MMR	-	-	Myanmar	-	-	Cannot be selected
+MNE	-	-	Montenegro	-	-	Marine Pattern
+MNG	-	-	Mongolia	-	-	Cannot be selected
+MNP	-	-	Northern Mariana Islands	-	-	Cannot be selected
+MOZ	-	-	Mozambique	-	-	Sun Pattern
+MRT	-	-	Mauritania	-	-	River Pattern
+MSR	-	-	Montserrat	-	-	Archipelago Pattern
+MTQ	-	-	Martinique	-	-	Archipelago Pattern
+MUS	-	-	Mauritius	-	-	Cannot be selected
+MWI	-	-	Malawi	-	-	Cannot be selected
+MYS	MYS.1_1	-	Malaysia	Johor	-	Jungle Pattern
+MYS	MYS.2_1	-	Malaysia	Kedah	-	Jungle Pattern
+MYS	MYS.3_1	-	Malaysia	Kelantan	-	Jungle Pattern
+MYS	MYS.4_1	-	Malaysia	Kuala Lumpur	-	Jungle Pattern
+MYS	MYS.5_1	-	Malaysia	Labuan	-	Jungle Pattern
+MYS	MYS.6_1	-	Malaysia	Melaka	-	Jungle Pattern
+MYS	MYS.7_1	-	Malaysia	Negeri Sembilan	-	Jungle Pattern
+MYS	MYS.8_1	-	Malaysia	Pahang	-	Jungle Pattern
+MYS	MYS.9_1	-	Malaysia	Perak	-	Jungle Pattern
+MYS	MYS.10_1	-	Malaysia	Perlis	-	Jungle Pattern
+MYS	MYS.11_1	-	Malaysia	Pulau Pinang	-	Jungle Pattern
+MYS	MYS.12_1	-	Malaysia	Putrajaya	-	Jungle Pattern
+MYS	MYS.13_1	-	Malaysia	Sabah	-	Jungle Pattern
+MYS	MYS.14_1	-	Malaysia	Sarawak	-	Jungle Pattern
+MYS	MYS.15_1	-	Malaysia	Selangor	-	Jungle Pattern
+MYS	MYS.16_1	-	Malaysia	Trengganu	-	Jungle Pattern
+MYT	-	-	Mayotte	-	-	Cannot be selected
+NAM	-	-	Namibia	-	-	River Pattern
+NCL	-	-	New Caledonia	-	-	Cannot be selected
+NER	-	-	Niger	-	-	River Pattern
+NFK	-	-	Norfolk Island	-	-	Cannot be selected
+NGA	-	-	Nigeria	-	-	Cannot be selected
+NIC	NIC.1_1	-	Nicaragua	Atlántico Norte	-	Sun Pattern
+NIC	NIC.2_1	-	Nicaragua	Atlántico Sur	-	Sun Pattern
+NIC	NIC.3_1	-	Nicaragua	Boaco	-	Sun Pattern
+NIC	NIC.4_1	-	Nicaragua	Carazo	-	Sun Pattern
+NIC	NIC.5_1	-	Nicaragua	Chinandega	-	Sun Pattern
+NIC	NIC.6_1	-	Nicaragua	Chontales	-	Sun Pattern
+NIC	NIC.7_1	-	Nicaragua	Estelí	-	Sun Pattern
+NIC	NIC.8_1	-	Nicaragua	Granada	-	Sun Pattern
+NIC	NIC.9_1	-	Nicaragua	Jinotega	-	Sun Pattern
+NIC	NIC.10_1	-	Nicaragua	Lago Nicaragua	-	Cannot be selected
+NIC	NIC.11_1	-	Nicaragua	León	-	Sun Pattern
+NIC	NIC.12_1	-	Nicaragua	Madriz	-	Sun Pattern
+NIC	NIC.13_1	-	Nicaragua	Managua	-	Sun Pattern
+NIC	NIC.14_1	-	Nicaragua	Masaya	-	Sun Pattern
+NIC	NIC.15_1	-	Nicaragua	Matagalpa	-	Sun Pattern
+NIC	NIC.16_1	-	Nicaragua	Nueva Segovia	-	Sun Pattern
+NIC	NIC.17_1	-	Nicaragua	Río San Juan	-	Sun Pattern
+NIC	NIC.18_1	-	Nicaragua	Rivas	-	Sun Pattern
+NIU	-	-	Niue	-	-	Cannot be selected
+NLD	NLD.1_1	-	Netherlands	Drenthe	-	Continental Pattern
+NLD	NLD.2_1	-	Netherlands	Flevoland	-	Continental Pattern
+NLD	NLD.3_1	-	Netherlands	Fryslân	-	Continental Pattern
+NLD	NLD.4_1	-	Netherlands	Gelderland	-	Continental Pattern
+NLD	NLD.5_1	-	Netherlands	Groningen	-	Continental Pattern
+NLD	NLD.6_1	-	Netherlands	IJsselmeer	-	Cannot be selected
+NLD	NLD.7_1	-	Netherlands	Limburg	-	Continental Pattern
+NLD	NLD.8_1	-	Netherlands	Noord-Brabant	-	Continental Pattern
+NLD	NLD.9_1	-	Netherlands	Noord-Holland	-	Continental Pattern
+NLD	NLD.10_1	-	Netherlands	Overijssel	-	Continental Pattern
+NLD	NLD.11_1	-	Netherlands	Utrecht	-	Continental Pattern
+NLD	NLD.12_1	-	Netherlands	Zeeland	-	Continental Pattern
+NLD	NLD.13_1	-	Netherlands	Zeeuwse meren	-	Cannot be selected
+NLD	NLD.14_1	-	Netherlands	NA	-	Continental Pattern
+NOR	NOR.1_1	-	Norway	Akershus	-	Continental Pattern
+NOR	NOR.2_1	-	Norway	Ãstfold	-	Continental Pattern
+NOR	NOR.3_1	-	Norway	Aust-Agder	-	Continental Pattern
+NOR	NOR.4_1	-	Norway	Buskerud	-	Continental Pattern
+NOR	NOR.5_1	-	Norway	Finnmark	-	Icy Snow Pattern
+NOR	NOR.6_1	-	Norway	Hedmark	-	Polar Pattern
+NOR	NOR.7_1	-	Norway	Hordaland	-	Tundra Pattern
+NOR	NOR.8_1	-	Norway	Møre og Romsdal	-	Tundra Pattern
+NOR	NOR.9_1	-	Norway	Nord-Trøndelag	-	Polar Pattern
+NOR	NOR.10_1	-	Norway	Nordland	-	Polar Pattern
+NOR	NOR.11_1	-	Norway	Oppland	-	Polar Pattern
+NOR	NOR.12_1	-	Norway	Oslo	-	Continental Pattern
+NOR	NOR.13_1	-	Norway	Rogaland	-	Continental Pattern
+NOR	NOR.14_1	-	Norway	Sogn og Fjordane	-	Tundra Pattern
+NOR	NOR.15_1	-	Norway	Sør-Trøndelag	-	Polar Pattern
+NOR	NOR.16_1	-	Norway	Telemark	-	Continental Pattern
+NOR	NOR.17_1	-	Norway	Troms	-	Polar Pattern
+NOR	NOR.18_1	-	Norway	Vest-Agder	-	Continental Pattern
+NOR	NOR.19_1	-	Norway	Vestfold	-	Continental Pattern
+NPL	-	-	Nepal	-	-	Cannot be selected
+NRU	-	-	Nauru	-	-	Cannot be selected
+NZL	NZL.1_1	-	New Zealand	Auckland	-	Garden Pattern
+NZL	NZL.2_1	-	New Zealand	Bay of Plenty	-	Garden Pattern
+NZL	NZL.3_1	-	New Zealand	Canterbury	-	Garden Pattern
+NZL	NZL.4_1	-	New Zealand	Chatham Islands	-	Cannot be selected
+NZL	NZL.5_1	-	New Zealand	Gisborne	-	Garden Pattern
+NZL	NZL.6_1	-	New Zealand	Hawke's Bay	-	Garden Pattern
+NZL	NZL.7_1	-	New Zealand	Manawatu-Wanganui	-	Garden Pattern
+NZL	NZL.8_1	-	New Zealand	Marlborough	-	Garden Pattern
+NZL	NZL.9_1	-	New Zealand	Nelson	-	Garden Pattern
+NZL	NZL.10_1	-	New Zealand	Northern Islands	-	Cannot be selected
+NZL	NZL.11_1	-	New Zealand	Northland	-	Garden Pattern
+NZL	NZL.12_1	-	New Zealand	Otago	-	Garden Pattern
+NZL	NZL.13_1	-	New Zealand	Southern Islands	-	Cannot be selected
+NZL	NZL.14_1	-	New Zealand	Southland	-	Garden Pattern
+NZL	NZL.15_1	-	New Zealand	Taranaki	-	Garden Pattern
+NZL	NZL.16_1	-	New Zealand	Tasman	-	Garden Pattern
+NZL	NZL.17_1	-	New Zealand	Waikato	-	Garden Pattern
+NZL	NZL.18_1	-	New Zealand	Wellington	-	Garden Pattern
+NZL	NZL.19_1	-	New Zealand	West Coast	-	Garden Pattern
+OMN	-	-	Oman	-	-	Cannot be selected
+PAK	-	-	Pakistan	-	-	Cannot be selected
+Z06	-	-	Pakistan	-	-	Cannot be selected
+PAN	PAN.1_1	-	Panama	Bocas del Toro	-	Jungle Pattern
+PAN	PAN.2_1	-	Panama	Chiriquí	-	Jungle Pattern
+PAN	PAN.3_1	-	Panama	Coclé	-	Jungle Pattern
+PAN	PAN.4_1	-	Panama	Colón	-	Jungle Pattern
+PAN	PAN.5_1	-	Panama	Darién	-	Jungle Pattern
+PAN	PAN.6_1	-	Panama	Emberá	-	Jungle Pattern
+PAN	PAN.7_1	-	Panama	Herrera	-	Jungle Pattern
+PAN	PAN.8_1	-	Panama	Kuna Yala	-	Jungle Pattern
+PAN	PAN.9_1	-	Panama	Los Santos	-	Jungle Pattern
+PAN	PAN.10_1	-	Panama	Ngöbe Buglé	-	Jungle Pattern
+PAN	PAN.12_1	-	Panama	Panamá	-	Jungle Pattern
+PAN	PAN.11_1	-	Panama	Panamá Oeste	-	Cannot be selected
+PAN	PAN.13_1	-	Panama	Veraguas	-	Jungle Pattern
+PCN	-	-	Pitcairn Islands	-	-	Cannot be selected
+PER	PER.1_1	-	Peru	Amazonas	-	Jungle Pattern
+PER	PER.2_1	-	Peru	Ancash	-	Jungle Pattern
+PER	PER.3_1	-	Peru	Apurímac	-	Savanna Pattern
+PER	PER.4_1	-	Peru	Arequipa	-	Savanna Pattern
+PER	PER.5_1	-	Peru	Ayacucho	-	Savanna Pattern
+PER	PER.6_1	-	Peru	Cajamarca	-	Jungle Pattern
+PER	PER.7_1	-	Peru	Callao	-	Savanna Pattern
+PER	PER.8_1	-	Peru	Cusco	-	Savanna Pattern
+PER	PER.9_1	-	Peru	Huancavelica	-	Savanna Pattern
+PER	PER.10_1	-	Peru	Huánuco	-	Jungle Pattern
+PER	PER.11_1	-	Peru	Ica	-	Savanna Pattern
+PER	PER.12_1	-	Peru	Junín	-	Savanna Pattern
+PER	PER.13_1	-	Peru	La Libertad	-	Jungle Pattern
+PER	PER.14_1	-	Peru	Lambayeque	-	Jungle Pattern
+PER	PER.16_1	-	Peru	Lima	-	Savanna Pattern
+PER	PER.15_1	-	Peru	Lima Province	-	Savanna Pattern
+PER	PER.17_1	-	Peru	Loreto	-	Jungle Pattern
+PER	PER.18_1	-	Peru	Madre de Dios	-	Savanna Pattern
+PER	PER.19_1	-	Peru	Moquegua	-	Savanna Pattern
+PER	PER.20_1	-	Peru	Pasco	-	Savanna Pattern
+PER	PER.21_1	-	Peru	Piura	-	Jungle Pattern
+PER	PER.22_1	-	Peru	Puno	-	Savanna Pattern
+PER	PER.23_1	-	Peru	San Martín	-	Jungle Pattern
+PER	PER.24_1	-	Peru	Tacna	-	Savanna Pattern
+PER	PER.25_1	-	Peru	Tumbes	-	Jungle Pattern
+PER	PER.26_1	-	Peru	Ucayali	-	Jungle Pattern
+PHL	-	-	Philippines	-	-	Cannot be selected
+PLW	-	-	Palau	-	-	Cannot be selected
+PNG	-	-	Papua New Guinea	-	-	Cannot be selected
+POL	POL.1_1	-	Poland	Dolno?l?skie	-	Continental Pattern
+POL	POL.2_1	-	Poland	Kujawsko-Pomorskie	-	Continental Pattern
+POL	POL.3_1	-	Poland	?ódzkie	-	Continental Pattern
+POL	POL.4_1	-	Poland	Lubelskie	-	Continental Pattern
+POL	POL.5_1	-	Poland	Lubuskie	-	Continental Pattern
+POL	POL.6_1	-	Poland	Ma?opolskie	-	Continental Pattern
+POL	POL.7_1	-	Poland	Mazowieckie	-	Continental Pattern
+POL	POL.8_1	-	Poland	Opolskie	-	Continental Pattern
+POL	POL.9_1	-	Poland	Podkarpackie	-	Continental Pattern
+POL	POL.10_1	-	Poland	Podlaskie	-	Continental Pattern
+POL	POL.11_1	-	Poland	Pomorskie	-	Continental Pattern
+POL	POL.12_1	-	Poland	?l?skie	-	Continental Pattern
+POL	POL.13_1	-	Poland	?wi?tokrzyskie	-	Continental Pattern
+POL	POL.14_1	-	Poland	Warmi?sko-Mazurskie	-	Continental Pattern
+POL	POL.15_1	-	Poland	Wielkopolskie	-	Continental Pattern
+POL	POL.16_1	-	Poland	Zachodniopomorskie	-	Continental Pattern
+PRI	-	-	Puerto Rico	-	-	Archipelago Pattern
+PRK	-	-	North Korea	-	-	Cannot be selected
+PRT	PRT.1_1	-	Portugal	Aveiro	-	Marine Pattern
+PRT	PRT.2_1	-	Portugal	Azores	-	Marine Pattern
+PRT	PRT.3_1	-	Portugal	Beja	-	Marine Pattern
+PRT	PRT.4_1	-	Portugal	Braga	-	Marine Pattern
+PRT	PRT.5_1	-	Portugal	Bragança	-	Marine Pattern
+PRT	PRT.6_1	-	Portugal	Castelo Branco	-	Marine Pattern
+PRT	PRT.7_1	-	Portugal	Coimbra	-	Marine Pattern
+PRT	PRT.8_1	-	Portugal	Évora	-	Marine Pattern
+PRT	PRT.9_1	-	Portugal	Faro	-	Marine Pattern
+PRT	PRT.10_1	-	Portugal	Guarda	-	Marine Pattern
+PRT	PRT.11_1	-	Portugal	Leiria	-	Marine Pattern
+PRT	PRT.12_1	-	Portugal	Lisboa	-	Marine Pattern
+PRT	PRT.13_1	-	Portugal	Madeira	-	Marine Pattern
+PRT	PRT.14_1	-	Portugal	Portalegre	-	Marine Pattern
+PRT	PRT.15_1	-	Portugal	Porto	-	Marine Pattern
+PRT	PRT.16_1	-	Portugal	Santarém	-	Marine Pattern
+PRT	PRT.17_1	-	Portugal	Setúbal	-	Marine Pattern
+PRT	PRT.18_1	-	Portugal	Viana do Castelo	-	Marine Pattern
+PRT	PRT.19_1	-	Portugal	Vila Real	-	Marine Pattern
+PRT	PRT.20_1	-	Portugal	Viseu	-	Marine Pattern
+PRY	PRY.1_1	-	Paraguay	Alto Paraguay	-	Savanna Pattern
+PRY	PRY.2_1	-	Paraguay	Alto Paraná	-	Savanna Pattern
+PRY	PRY.3_1	-	Paraguay	Amambay	-	Savanna Pattern
+PRY	PRY.4_1	-	Paraguay	Asunción	-	Savanna Pattern
+PRY	PRY.5_1	-	Paraguay	Boquerón	-	Savanna Pattern
+PRY	PRY.6_1	-	Paraguay	Caaguazú	-	Savanna Pattern
+PRY	PRY.7_1	-	Paraguay	Caazapá	-	Savanna Pattern
+PRY	PRY.8_1	-	Paraguay	Canindeyú	-	Savanna Pattern
+PRY	PRY.9_1	-	Paraguay	Central	-	Savanna Pattern
+PRY	PRY.10_1	-	Paraguay	Concepción	-	Savanna Pattern
+PRY	PRY.11_1	-	Paraguay	Cordillera	-	Savanna Pattern
+PRY	PRY.12_1	-	Paraguay	Guairá	-	Savanna Pattern
+PRY	PRY.13_1	-	Paraguay	Itapúa	-	Savanna Pattern
+PRY	PRY.14_1	-	Paraguay	Misiones	-	Savanna Pattern
+PRY	PRY.15_1	-	Paraguay	Ñeembucú	-	Savanna Pattern
+PRY	PRY.16_1	-	Paraguay	Paraguarí	-	Savanna Pattern
+PRY	PRY.17_1	-	Paraguay	Presidente Hayes	-	Savanna Pattern
+PRY	PRY.18_1	-	Paraguay	San Pedro	-	Savanna Pattern
+PSE	-	-	Palestine	-	-	Cannot be selected
+PYF	-	-	French Polynesia	-	-	Cannot be selected
+QAT	-	-	Qatar	-	-	Cannot be selected
+REU	-	-	Réunion	-	-	Ocean Pattern
+ROU	ROU.1_1	-	Romania	Alba	-	Marine Pattern
+ROU	ROU.2_1	-	Romania	Arad	-	Marine Pattern
+ROU	ROU.3_1	-	Romania	Arge?	-	Marine Pattern
+ROU	ROU.4_1	-	Romania	Bac?u	-	Marine Pattern
+ROU	ROU.5_1	-	Romania	Bihor	-	Marine Pattern
+ROU	ROU.6_1	-	Romania	Bistri?a-N?s?ud	-	Marine Pattern
+ROU	ROU.7_1	-	Romania	Boto?ani	-	Marine Pattern
+ROU	ROU.9_1	-	Romania	Br?ila	-	Marine Pattern
+ROU	ROU.8_1	-	Romania	Bra?ov	-	Marine Pattern
+ROU	ROU.10_1	-	Romania	Bucharest	-	Marine Pattern
+ROU	ROU.11_1	-	Romania	Buz?u	-	Marine Pattern
+ROU	ROU.12_1	-	Romania	C?l?ra?i	-	Marine Pattern
+ROU	ROU.13_1	-	Romania	Cara?-Severin	-	Marine Pattern
+ROU	ROU.14_1	-	Romania	Cluj	-	Marine Pattern
+ROU	ROU.15_1	-	Romania	Constan?a	-	Marine Pattern
+ROU	ROU.16_1	-	Romania	Covasna	-	Marine Pattern
+ROU	ROU.17_1	-	Romania	Dâmbovi?a	-	Marine Pattern
+ROU	ROU.18_1	-	Romania	Dolj	-	Marine Pattern
+ROU	ROU.19_1	-	Romania	Gala?i	-	Marine Pattern
+ROU	ROU.20_1	-	Romania	Giurgiu	-	Marine Pattern
+ROU	ROU.21_1	-	Romania	Gorj	-	Marine Pattern
+ROU	ROU.22_1	-	Romania	Harghita	-	Marine Pattern
+ROU	ROU.23_1	-	Romania	Hunedoara	-	Marine Pattern
+ROU	ROU.25_1	-	Romania	Ialomi?a	-	Marine Pattern
+ROU	ROU.24_1	-	Romania	Ia?i	-	Marine Pattern
+ROU	ROU.26_1	-	Romania	Ilfov	-	Marine Pattern
+ROU	ROU.27_1	-	Romania	Maramure?	-	Marine Pattern
+ROU	ROU.28_1	-	Romania	Mehedin?i	-	Marine Pattern
+ROU	ROU.29_1	-	Romania	Mure?	-	Marine Pattern
+ROU	ROU.30_1	-	Romania	Neam?	-	Marine Pattern
+ROU	ROU.31_1	-	Romania	Olt	-	Marine Pattern
+ROU	ROU.32_1	-	Romania	Prahova	-	Marine Pattern
+ROU	ROU.33_1	-	Romania	S?laj	-	Marine Pattern
+ROU	ROU.34_1	-	Romania	Satu Mare	-	Marine Pattern
+ROU	ROU.35_1	-	Romania	Sibiu	-	Marine Pattern
+ROU	ROU.36_1	-	Romania	Suceava	-	Marine Pattern
+ROU	ROU.37_1	-	Romania	Teleorman	-	Marine Pattern
+ROU	ROU.38_1	-	Romania	Timi?	-	Marine Pattern
+ROU	ROU.39_1	-	Romania	Tulcea	-	Marine Pattern
+ROU	ROU.40_1	-	Romania	Vâlcea	-	Marine Pattern
+ROU	ROU.41_1	-	Romania	Vaslui	-	Marine Pattern
+ROU	ROU.42_1	-	Romania	Vrancea	-	Marine Pattern
+RUS	RUS.1_1	-	Russia	Adygey	-	High Plains Pattern
+RUS	RUS.2_1	-	Russia	Altay	-	Polar Pattern
+RUS	RUS.3_1	-	Russia	Amur	-	Polar Pattern
+RUS	RUS.4_1	-	Russia	Arkhangel'sk	-	Icy Snow Pattern
+RUS	RUS.5_1	-	Russia	Astrakhan'	-	High Plains Pattern
+RUS	RUS.6_1	-	Russia	Bashkortostan	-	Polar Pattern
+RUS	RUS.7_1	-	Russia	Belgorod	-	Continental Pattern
+RUS	RUS.8_1	-	Russia	Bryansk	-	Continental Pattern
+RUS	RUS.9_1	-	Russia	Buryat	-	Polar Pattern
+RUS	RUS.10_1	-	Russia	Chechnya	-	High Plains Pattern
+RUS	RUS.11_1	-	Russia	Chelyabinsk	-	Polar Pattern
+RUS	RUS.12_1	-	Russia	Chukot	-	Icy Snow Pattern
+RUS	RUS.13_1	-	Russia	Chuvash	-	Polar Pattern
+RUS	RUS.14_1	-	Russia	City of St. Petersburg	-	Continental Pattern
+RUS	RUS.15_1	-	Russia	Dagestan	-	High Plains Pattern
+RUS	RUS.16_1	-	Russia	Gorno-Altay	-	Polar Pattern
+RUS	RUS.17_1	-	Russia	Ingush	-	High Plains Pattern
+RUS	RUS.18_1	-	Russia	Irkutsk	-	Polar Pattern
+RUS	RUS.19_1	-	Russia	Ivanovo	-	Polar Pattern
+RUS	RUS.20_1	-	Russia	Kabardin-Balkar	-	High Plains Pattern
+RUS	RUS.21_1	-	Russia	Kaliningrad	-	Continental Pattern
+RUS	RUS.22_1	-	Russia	Kalmyk	-	High Plains Pattern
+RUS	RUS.23_1	-	Russia	Kaluga	-	Continental Pattern
+RUS	RUS.24_1	-	Russia	Kamchatka	-	Polar Pattern
+RUS	RUS.25_1	-	Russia	Karachay-Cherkess	-	High Plains Pattern
+RUS	RUS.26_1	-	Russia	Karelia	-	Icy Snow Pattern
+RUS	RUS.27_1	-	Russia	Kemerovo	-	Polar Pattern
+RUS	RUS.28_1	-	Russia	Khabarovsk	-	Polar Pattern
+RUS	RUS.29_1	-	Russia	Khakass	-	Polar Pattern
+RUS	RUS.30_1	-	Russia	Khanty-Mansiy	-	Icy Snow Pattern
+RUS	RUS.31_1	-	Russia	Kirov	-	Polar Pattern
+RUS	RUS.32_1	-	Russia	Komi	-	Icy Snow Pattern
+RUS	RUS.33_1	-	Russia	Kostroma	-	Polar Pattern
+RUS	RUS.34_1	-	Russia	Krasnodar	-	Marine Pattern
+RUS	RUS.35_1	-	Russia	Krasnoyarsk	-	Polar Pattern
+RUS	RUS.36_1	-	Russia	Kurgan	-	Polar Pattern
+RUS	RUS.37_1	-	Russia	Kursk	-	Continental Pattern
+RUS	RUS.38_1	-	Russia	Leningrad	-	Continental Pattern
+RUS	RUS.39_1	-	Russia	Lipetsk	-	Continental Pattern
+RUS	RUS.40_1	-	Russia	Magadan	-	Polar Pattern
+RUS	RUS.41_1	-	Russia	Mariy-El	-	Polar Pattern
+RUS	RUS.42_1	-	Russia	Mordovia	-	Polar Pattern
+RUS	RUS.43_1	-	Russia	Moscow City	-	Continental Pattern
+RUS	RUS.44_1	-	Russia	Moskva	-	Continental Pattern
+RUS	RUS.45_1	-	Russia	Murmansk	-	Icy Snow Pattern
+RUS	RUS.46_1	-	Russia	Nenets	-	Icy Snow Pattern
+RUS	RUS.47_1	-	Russia	Nizhegorod	-	Polar Pattern
+RUS	RUS.48_1	-	Russia	North Ossetia	-	High Plains Pattern
+RUS	RUS.49_1	-	Russia	Novgorod	-	Continental Pattern
+RUS	RUS.50_1	-	Russia	Novosibirsk	-	Polar Pattern
+RUS	RUS.51_1	-	Russia	Omsk	-	Polar Pattern
+RUS	RUS.52_1	-	Russia	Orel	-	Continental Pattern
+RUS	RUS.53_1	-	Russia	Orenburg	-	Polar Pattern
+RUS	RUS.54_1	-	Russia	Penza	-	Polar Pattern
+RUS	RUS.55_1	-	Russia	Perm'	-	Polar Pattern
+RUS	RUS.56_1	-	Russia	Primor'ye	-	Polar Pattern
+RUS	RUS.57_1	-	Russia	Pskov	-	Continental Pattern
+RUS	RUS.58_1	-	Russia	Rostov	-	Marine Pattern
+RUS	RUS.59_1	-	Russia	Ryazan'	-	Continental Pattern
+RUS	RUS.60_1	-	Russia	Sakha	-	Icy Snow Pattern
+RUS	RUS.61_1	-	Russia	Sakhalin	-	Polar Pattern
+RUS	RUS.62_1	-	Russia	Samara	-	Polar Pattern
+RUS	RUS.63_1	-	Russia	Saratov	-	Polar Pattern
+RUS	RUS.64_1	-	Russia	Smolensk	-	Continental Pattern
+RUS	RUS.65_1	-	Russia	Stavropol'	-	High Plains Pattern
+RUS	RUS.66_1	-	Russia	Sverdlovsk	-	Polar Pattern
+RUS	RUS.67_1	-	Russia	Tambov	-	Polar Pattern
+RUS	RUS.68_1	-	Russia	Tatarstan	-	Polar Pattern
+RUS	RUS.69_1	-	Russia	Tomsk	-	Polar Pattern
+RUS	RUS.70_1	-	Russia	Tula	-	Continental Pattern
+RUS	RUS.71_1	-	Russia	Tuva	-	Polar Pattern
+RUS	RUS.72_1	-	Russia	Tver'	-	Continental Pattern
+RUS	RUS.73_1	-	Russia	Tyumen'	-	Polar Pattern
+RUS	RUS.74_1	-	Russia	Udmurt	-	Polar Pattern
+RUS	RUS.75_1	-	Russia	Ul'yanovsk	-	Polar Pattern
+RUS	RUS.76_1	-	Russia	Vladimir	-	Polar Pattern
+RUS	RUS.77_1	-	Russia	Volgograd	-	High Plains Pattern
+RUS	RUS.78_1	-	Russia	Vologda	-	Continental Pattern
+RUS	RUS.79_1	-	Russia	Voronezh	-	Continental Pattern
+RUS	RUS.80_1	-	Russia	Yamal-Nenets	-	Icy Snow Pattern
+RUS	RUS.81_1	-	Russia	Yaroslavl'	-	Continental Pattern
+RUS	RUS.82_1	-	Russia	Yevrey	-	Polar Pattern
+RUS	RUS.83_1	-	Russia	Zabaykal'ye	-	Polar Pattern
+RWA	-	-	Rwanda	-	-	Cannot be selected
+SAU	SAU.1_1	-	Saudi Arabia	'Asir	-	Sandstorm Pattern
+SAU	SAU.2_1	-	Saudi Arabia	Al Bahah	-	Sandstorm Pattern
+SAU	SAU.3_1	-	Saudi Arabia	Al Hudud ash Shamaliyah	-	Sandstorm Pattern
+SAU	SAU.4_1	-	Saudi Arabia	Al Jawf	-	Sandstorm Pattern
+SAU	SAU.5_1	-	Saudi Arabia	Al Madinah	-	Sandstorm Pattern
+SAU	SAU.6_1	-	Saudi Arabia	Al Qassim	-	Sandstorm Pattern
+SAU	SAU.7_1	-	Saudi Arabia	Ar Riyad	-	Sandstorm Pattern
+SAU	SAU.8_1	-	Saudi Arabia	Ash-Sharq?yah	-	Sandstorm Pattern
+SAU	SAU.9_1	-	Saudi Arabia	?a?il	-	Sandstorm Pattern
+SAU	SAU.10_1	-	Saudi Arabia	Jizan	-	Sandstorm Pattern
+SAU	SAU.11_1	-	Saudi Arabia	Makkah	-	Sandstorm Pattern
+SAU	SAU.12_1	-	Saudi Arabia	Najran	-	Sandstorm Pattern
+SAU	SAU.13_1	-	Saudi Arabia	Tabuk	-	Sandstorm Pattern
+SDN	-	-	Sudan	-	-	Sandstorm Pattern
+SEN	-	-	Senegal	-	-	Cannot be selected
+SGP	-	-	Singapore	-	-	Jungle Pattern
+SGS	-	-	South Georgia and the South Sand	-	-	Cannot be selected
+SHN	-	-	Saint Helena, Ascension and Tris	-	-	Cannot be selected
+SJM	-	-	Svalbard and Jan Mayen	-	-	Icy Snow Pattern
+SLB	-	-	Solomon Islands	-	-	Cannot be selected
+SLE	-	-	Sierra Leone	-	-	Cannot be selected
+SLV	SLV.1_1	-	El Salvador	Ahuachapán	-	Sun Pattern
+SLV	SLV.2_1	-	El Salvador	Cabañas	-	Sun Pattern
+SLV	SLV.3_1	-	El Salvador	Chalatenango	-	Sun Pattern
+SLV	SLV.4_1	-	El Salvador	Cuscatlán	-	Sun Pattern
+SLV	SLV.5_1	-	El Salvador	La Libertad	-	Sun Pattern
+SLV	SLV.6_1	-	El Salvador	La Paz	-	Sun Pattern
+SLV	SLV.7_1	-	El Salvador	La Unión	-	Sun Pattern
+SLV	SLV.8_1	-	El Salvador	Morazán	-	Sun Pattern
+SLV	SLV.9_1	-	El Salvador	San Miguel	-	Sun Pattern
+SLV	SLV.10_1	-	El Salvador	San Salvador	-	Sun Pattern
+SLV	SLV.11_1	-	El Salvador	San Vicente	-	Sun Pattern
+SLV	SLV.12_1	-	El Salvador	Santa Ana	-	Sun Pattern
+SLV	SLV.13_1	-	El Salvador	Sonsonate	-	Sun Pattern
+SLV	SLV.14_1	-	El Salvador	Usulután	-	Sun Pattern
+SMR	-	-	San Marino	-	-	Marine Pattern
+SOM	-	-	Somalia	-	-	Sandstorm Pattern
+SPM	-	-	Saint Pierre and Miquelon	-	-	Cannot be selected
+SRB	-	-	Serbia	-	-	Marine Pattern
+SSD	-	-	South Sudan	-	-	Cannot be selected
+STP	-	-	São Tomé and Príncipe	-	-	Cannot be selected
+SUR	SUR.1_1	-	Suriname	Brokopondo	-	Jungle Pattern
+SUR	SUR.2_1	-	Suriname	Commewijne	-	Jungle Pattern
+SUR	SUR.3_1	-	Suriname	Coronie	-	Jungle Pattern
+SUR	SUR.4_1	-	Suriname	Marowijne	-	Jungle Pattern
+SUR	SUR.5_1	-	Suriname	Nickerie	-	Jungle Pattern
+SUR	SUR.6_1	-	Suriname	Para	-	Jungle Pattern
+SUR	SUR.7_1	-	Suriname	Paramaribo	-	Jungle Pattern
+SUR	SUR.8_1	-	Suriname	Saramacca	-	Jungle Pattern
+SUR	SUR.9_1	-	Suriname	Sipaliwini	-	Jungle Pattern
+SUR	SUR.10_1	-	Suriname	Wanica	-	Jungle Pattern
+SVK	SVK.1_1	-	Slovakia	Banskobystrický	-	Marine Pattern
+SVK	SVK.2_1	-	Slovakia	Bratislavský	-	Marine Pattern
+SVK	SVK.3_1	-	Slovakia	Košický	-	Marine Pattern
+SVK	SVK.4_1	-	Slovakia	Nitriansky	-	Marine Pattern
+SVK	SVK.5_1	-	Slovakia	Prešovský	-	Marine Pattern
+SVK	SVK.6_1	-	Slovakia	Tren?iansky	-	Marine Pattern
+SVK	SVK.7_1	-	Slovakia	Trnavský	-	Marine Pattern
+SVK	SVK.8_1	-	Slovakia	Žilinský	-	Marine Pattern
+SVN	-	-	Slovenia	-	-	Marine Pattern
+SWE	SWE.1_1	-	Sweden	Blekinge	-	Continental Pattern
+SWE	SWE.2_1	-	Sweden	Dalarna	-	Polar Pattern
+SWE	SWE.3_1	-	Sweden	Gävleborg	-	Polar Pattern
+SWE	SWE.4_1	-	Sweden	Gotland	-	Continental Pattern
+SWE	SWE.5_1	-	Sweden	Halland	-	Continental Pattern
+SWE	SWE.6_1	-	Sweden	Jämtland	-	Polar Pattern
+SWE	SWE.7_1	-	Sweden	Jönköping	-	Continental Pattern
+SWE	SWE.8_1	-	Sweden	Kalmar	-	Continental Pattern
+SWE	SWE.9_1	-	Sweden	Kronoberg	-	Continental Pattern
+SWE	SWE.10_1	-	Sweden	Norrbotten	-	Icy Snow Pattern
+SWE	SWE.11_1	-	Sweden	Orebro	-	Continental Pattern
+SWE	SWE.12_1	-	Sweden	Östergötland	-	Continental Pattern
+SWE	SWE.13_1	-	Sweden	Skåne	-	Continental Pattern
+SWE	SWE.14_1	-	Sweden	Södermanland	-	Continental Pattern
+SWE	SWE.15_1	-	Sweden	Stockholm	-	Continental Pattern
+SWE	SWE.16_1	-	Sweden	Uppsala	-	Continental Pattern
+SWE	SWE.17_1	-	Sweden	Värmland	-	Continental Pattern
+SWE	SWE.18_1	-	Sweden	Västerbotten	-	Icy Snow Pattern
+SWE	SWE.19_1	-	Sweden	Västernorrland	-	Polar Pattern
+SWE	SWE.20_1	-	Sweden	Västmanland	-	Continental Pattern
+SWE	SWE.21_1	-	Sweden	Västra Götaland	-	Continental Pattern
+SWZ	SWZ.1_1	-	Swaziland	Hhohho	-	Sun Pattern
+SWZ	SWZ.2_1	-	Swaziland	Lubombo	-	Sun Pattern
+SWZ	SWZ.3_1	-	Swaziland	Manzini	-	Sun Pattern
+SWZ	SWZ.4_1	-	Swaziland	Shiselweni	-	Sun Pattern
+SXM	-	-	Sint Maarten	-	-	Archipelago Pattern
+SYC	-	-	Seychelles	-	-	Cannot be selected
+SYR	-	-	Syria	-	-	Cannot be selected
+TCA	-	-	Turks and Caicos Islands	-	-	Archipelago Pattern
+TCD	-	-	Chad	-	-	River Pattern
+TGO	-	-	Togo	-	-	Cannot be selected
+THA	-	-	Thailand	-	-	Cannot be selected
+TJK	-	-	Tajikistan	-	-	Cannot be selected
+TKL	-	-	Tokelau	-	-	Cannot be selected
+TKM	-	-	Turkmenistan	-	-	Cannot be selected
+TLS	-	-	Timor-Leste	-	-	Cannot be selected
+TON	-	-	Tonga	-	-	Cannot be selected
+TTO	-	-	Trinidad and Tobago	-	-	Archipelago Pattern
+TUN	-	-	Tunisia	-	-	Cannot be selected
+TUR	TUR.1_1	-	Turkey	Adana	-	Sandstorm Pattern
+TUR	TUR.2_1	-	Turkey	Adiyaman	-	Sandstorm Pattern
+TUR	TUR.3_1	-	Turkey	Afyon	-	Sandstorm Pattern
+TUR	TUR.4_1	-	Turkey	Agri	-	Sandstorm Pattern
+TUR	TUR.5_1	-	Turkey	Aksaray	-	Sandstorm Pattern
+TUR	TUR.6_1	-	Turkey	Amasya	-	Marine Pattern
+TUR	TUR.7_1	-	Turkey	Ankara	-	Sandstorm Pattern
+TUR	TUR.8_1	-	Turkey	Antalya	-	Sandstorm Pattern
+TUR	TUR.9_1	-	Turkey	Ardahan	-	High Plains Pattern
+TUR	TUR.10_1	-	Turkey	Artvin	-	High Plains Pattern
+TUR	TUR.11_1	-	Turkey	Aydin	-	Marine Pattern
+TUR	TUR.12_1	-	Turkey	Balikesir	-	Marine Pattern
+TUR	TUR.13_1	-	Turkey	Bart?n	-	Marine Pattern
+TUR	TUR.14_1	-	Turkey	Batman	-	Sandstorm Pattern
+TUR	TUR.15_1	-	Turkey	Bayburt	-	High Plains Pattern
+TUR	TUR.16_1	-	Turkey	Bilecik	-	Marine Pattern
+TUR	TUR.17_1	-	Turkey	Bingöl	-	Sandstorm Pattern
+TUR	TUR.18_1	-	Turkey	Bitlis	-	Sandstorm Pattern
+TUR	TUR.19_1	-	Turkey	Bolu	-	Marine Pattern
+TUR	TUR.20_1	-	Turkey	Burdur	-	Sandstorm Pattern
+TUR	TUR.21_1	-	Turkey	Bursa	-	Marine Pattern
+TUR	TUR.22_1	-	Turkey	Çanakkale	-	Marine Pattern
+TUR	TUR.23_1	-	Turkey	Çankiri	-	Marine Pattern
+TUR	TUR.24_1	-	Turkey	Çorum	-	Marine Pattern
+TUR	TUR.25_1	-	Turkey	Denizli	-	Marine Pattern
+TUR	TUR.26_1	-	Turkey	Diyarbakir	-	Sandstorm Pattern
+TUR	TUR.27_1	-	Turkey	Düzce	-	Marine Pattern
+TUR	TUR.28_1	-	Turkey	Edirne	-	Marine Pattern
+TUR	TUR.29_1	-	Turkey	Elaz??	-	Sandstorm Pattern
+TUR	TUR.30_1	-	Turkey	Erzincan	-	Sandstorm Pattern
+TUR	TUR.31_1	-	Turkey	Erzurum	-	Sandstorm Pattern
+TUR	TUR.32_1	-	Turkey	Eskisehir	-	Sandstorm Pattern
+TUR	TUR.33_1	-	Turkey	Gaziantep	-	Sandstorm Pattern
+TUR	TUR.34_1	-	Turkey	Giresun	-	Marine Pattern
+TUR	TUR.35_1	-	Turkey	Gümüshane	-	Marine Pattern
+TUR	TUR.36_1	-	Turkey	Hakkari	-	Sandstorm Pattern
+TUR	TUR.37_1	-	Turkey	Hatay	-	Sandstorm Pattern
+TUR	TUR.38_1	-	Turkey	I?d?r	-	Sandstorm Pattern
+TUR	TUR.39_1	-	Turkey	Isparta	-	Sandstorm Pattern
+TUR	TUR.40_1	-	Turkey	Istanbul	-	Marine Pattern
+TUR	TUR.41_1	-	Turkey	Izmir	-	Marine Pattern
+TUR	TUR.42_1	-	Turkey	K. Maras	-	Sandstorm Pattern
+TUR	TUR.43_1	-	Turkey	Karabük	-	Marine Pattern
+TUR	TUR.44_1	-	Turkey	Karaman	-	Sandstorm Pattern
+TUR	TUR.45_1	-	Turkey	Kars	-	High Plains Pattern
+TUR	TUR.46_1	-	Turkey	Kastamonu	-	Marine Pattern
+TUR	TUR.47_1	-	Turkey	Kayseri	-	Sandstorm Pattern
+TUR	TUR.48_1	-	Turkey	Kilis	-	Sandstorm Pattern
+TUR	TUR.49_1	-	Turkey	Kinkkale	-	Sandstorm Pattern
+TUR	TUR.50_1	-	Turkey	Kirklareli	-	Marine Pattern
+TUR	TUR.51_1	-	Turkey	Kirsehir	-	Sandstorm Pattern
+TUR	TUR.52_1	-	Turkey	Kocaeli	-	Marine Pattern
+TUR	TUR.53_1	-	Turkey	Konya	-	Sandstorm Pattern
+TUR	TUR.54_1	-	Turkey	Kütahya	-	Marine Pattern
+TUR	TUR.55_1	-	Turkey	Malatya	-	Sandstorm Pattern
+TUR	TUR.56_1	-	Turkey	Manisa	-	Marine Pattern
+TUR	TUR.57_1	-	Turkey	Mardin	-	Sandstorm Pattern
+TUR	TUR.58_1	-	Turkey	Mersin	-	Sandstorm Pattern
+TUR	TUR.59_1	-	Turkey	Mugla	-	Marine Pattern
+TUR	TUR.60_1	-	Turkey	Mus	-	Sandstorm Pattern
+TUR	TUR.61_1	-	Turkey	Nevsehir	-	Sandstorm Pattern
+TUR	TUR.62_1	-	Turkey	Nigde	-	Sandstorm Pattern
+TUR	TUR.63_1	-	Turkey	Ordu	-	Marine Pattern
+TUR	TUR.64_1	-	Turkey	Osmaniye	-	Sandstorm Pattern
+TUR	TUR.65_1	-	Turkey	Rize	-	High Plains Pattern
+TUR	TUR.66_1	-	Turkey	Sakarya	-	Marine Pattern
+TUR	TUR.67_1	-	Turkey	Samsun	-	Marine Pattern
+TUR	TUR.68_1	-	Turkey	Sanliurfa	-	Sandstorm Pattern
+TUR	TUR.69_1	-	Turkey	Siirt	-	Sandstorm Pattern
+TUR	TUR.70_1	-	Turkey	Sinop	-	Marine Pattern
+TUR	TUR.71_1	-	Turkey	Sirnak	-	Sandstorm Pattern
+TUR	TUR.72_1	-	Turkey	Sivas	-	Sandstorm Pattern
+TUR	TUR.73_1	-	Turkey	Tekirdag	-	Marine Pattern
+TUR	TUR.74_1	-	Turkey	Tokat	-	Marine Pattern
+TUR	TUR.75_1	-	Turkey	Trabzon	-	Marine Pattern
+TUR	TUR.76_1	-	Turkey	Tunceli	-	Sandstorm Pattern
+TUR	TUR.77_1	-	Turkey	Usak	-	Marine Pattern
+TUR	TUR.78_1	-	Turkey	Van	-	Sandstorm Pattern
+TUR	TUR.79_1	-	Turkey	Yalova	-	Marine Pattern
+TUR	TUR.80_1	-	Turkey	Yozgat	-	Sandstorm Pattern
+TUR	TUR.81_1	-	Turkey	Zinguldak	-	Marine Pattern
+TUV	-	-	Tuvalu	-	-	Cannot be selected
+TWN	TWN.1_1	TWN.1.1_1	Taiwan	Fujian	Kinmen	Continental Pattern
+TWN	TWN.1_1	TWN.1.2_1	Taiwan	Fujian	Lienkiang	Continental Pattern
+TWN	TWN.2_1	TWN.2.1_1	Taiwan	Kaohsiung	Kaohsiung	Monsoon Pattern
+TWN	TWN.3_1	TWN.3.1_1	Taiwan	New Taipei	New Taipei	Monsoon Pattern
+TWN	TWN.4_1	TWN.4.1_1	Taiwan	Taichung	Taichung	Monsoon Pattern
+TWN	TWN.5_1	TWN.5.1_1	Taiwan	Tainan	Tainan	Monsoon Pattern
+TWN	TWN.6_1	TWN.6.1_1	Taiwan	Taipei	Taipei	Monsoon Pattern
+TWN	TWN.7_1	TWN.7.1_1	Taiwan	Taiwan	Changhua	Monsoon Pattern
+TWN	TWN.7_1	TWN.7.2_1	Taiwan	Taiwan	Chiayi City	Monsoon Pattern
+TWN	TWN.7_1	TWN.7.3_1	Taiwan	Taiwan	Chiayi County	Monsoon Pattern
+TWN	TWN.7_1	TWN.7.4_1	Taiwan	Taiwan	Hsinchu City	Monsoon Pattern
+TWN	TWN.7_1	TWN.7.5_1	Taiwan	Taiwan	Hsinchu County	Monsoon Pattern
+TWN	TWN.7_1	TWN.7.6_1	Taiwan	Taiwan	Hualien	Monsoon Pattern
+TWN	TWN.7_1	TWN.7.7_1	Taiwan	Taiwan	Keelung	Monsoon Pattern
+TWN	TWN.7_1	TWN.7.8_1	Taiwan	Taiwan	Miaoli	Monsoon Pattern
+TWN	TWN.7_1	TWN.7.9_1	Taiwan	Taiwan	Nantou	Monsoon Pattern
+TWN	TWN.7_1	TWN.7.10_1	Taiwan	Taiwan	Penghu	Continental Pattern
+TWN	TWN.7_1	TWN.7.11_1	Taiwan	Taiwan	Pingtung	Monsoon Pattern
+TWN	TWN.7_1	TWN.7.12_1	Taiwan	Taiwan	Taitung	Monsoon Pattern
+TWN	TWN.7_1	TWN.7.13_1	Taiwan	Taiwan	Taoyuan	Monsoon Pattern
+TWN	TWN.7_1	TWN.7.14_1	Taiwan	Taiwan	Yilan	Monsoon Pattern
+TWN	TWN.7_1	TWN.7.15_1	Taiwan	Taiwan	Yulin	Monsoon Pattern
+TZA	-	-	Tanzania	-	-	Cannot be selected
+UGA	-	-	Uganda	-	-	Cannot be selected
+UKR	-	-	Ukraine	-	-	Cannot be selected
+UMI	-	-	United States Minor Outlying Isl	-	-	Cannot be selected
+URY	URY.1_2	-	Uruguay	Artigas	-	Savanna Pattern
+URY	URY.2_2	-	Uruguay	Canelones	-	Savanna Pattern
+URY	URY.3_2	-	Uruguay	Cerro Largo	-	Savanna Pattern
+URY	URY.4_2	-	Uruguay	Colonia	-	Savanna Pattern
+URY	URY.5_2	-	Uruguay	Durazno	-	Savanna Pattern
+URY	URY.6_2	-	Uruguay	Flores	-	Savanna Pattern
+URY	URY.7_2	-	Uruguay	Florida	-	Savanna Pattern
+URY	URY.8_2	-	Uruguay	Lavalleja	-	Savanna Pattern
+URY	URY.9_2	-	Uruguay	Maldonado	-	Savanna Pattern
+URY	URY.10_2	-	Uruguay	Montevideo	-	Savanna Pattern
+URY	URY.11_2	-	Uruguay	Paysandú	-	Savanna Pattern
+URY	URY.12_2	-	Uruguay	Río Negro	-	Savanna Pattern
+URY	URY.13_2	-	Uruguay	Rivera	-	Savanna Pattern
+URY	URY.14_2	-	Uruguay	Rocha	-	Savanna Pattern
+URY	URY.15_2	-	Uruguay	Salto	-	Savanna Pattern
+URY	URY.16_2	-	Uruguay	San José	-	Savanna Pattern
+URY	URY.17_2	-	Uruguay	Soriano	-	Savanna Pattern
+URY	URY.18_2	-	Uruguay	Tacuarembó	-	Savanna Pattern
+URY	URY.19_2	-	Uruguay	Treinta y Tres	-	Savanna Pattern
+USA	USA.1_1	-	United States	Alabama	-	Modern Pattern
+USA	USA.2_1	-	United States	Alaska	-	Polar Pattern
+USA	USA.3_1	-	United States	Arizona	-	High Plains Pattern
+USA	USA.4_1	-	United States	Arkansas	-	Modern Pattern
+USA	USA.5_1	-	United States	California	-	High Plains Pattern
+USA	USA.6_1	-	United States	Colorado	-	High Plains Pattern
+USA	USA.7_1	-	United States	Connecticut	-	Polar Pattern
+USA	USA.8_1	-	United States	Delaware	-	Modern Pattern
+USA	USA.9_1	-	United States	District of Columbia	-	Modern Pattern
+USA	USA.10_1	-	United States	Florida	-	Modern Pattern
+USA	USA.11_1	-	United States	Georgia	-	Modern Pattern
+USA	USA.12_1	-	United States	Hawaii	-	Ocean Pattern
+USA	USA.13_1	-	United States	Idaho	-	High Plains Pattern
+USA	USA.14_1	-	United States	Illinois	-	Modern Pattern
+USA	USA.15_1	-	United States	Indiana	-	Modern Pattern
+USA	USA.16_1	-	United States	Iowa	-	Modern Pattern
+USA	USA.17_1	-	United States	Kansas	-	Modern Pattern
+USA	USA.18_1	-	United States	Kentucky	-	Modern Pattern
+USA	USA.19_1	-	United States	Louisiana	-	Modern Pattern
+USA	USA.20_1	-	United States	Maine	-	Polar Pattern
+USA	USA.21_1	-	United States	Maryland	-	Modern Pattern
+USA	USA.22_1	-	United States	Massachusetts	-	Polar Pattern
+USA	USA.23_1	-	United States	Michigan	-	Polar Pattern
+USA	USA.24_1	-	United States	Minnesota	-	Modern Pattern
+USA	USA.25_1	-	United States	Mississippi	-	Modern Pattern
+USA	USA.26_1	-	United States	Missouri	-	Modern Pattern
+USA	USA.27_1	-	United States	Montana	-	High Plains Pattern
+USA	USA.28_1	-	United States	Nebraska	-	Modern Pattern
+USA	USA.29_1	-	United States	Nevada	-	High Plains Pattern
+USA	USA.30_1	-	United States	New Hampshire	-	Polar Pattern
+USA	USA.31_1	-	United States	New Jersey	-	Polar Pattern
+USA	USA.32_1	-	United States	New Mexico	-	High Plains Pattern
+USA	USA.33_1	-	United States	New York	-	Polar Pattern
+USA	USA.34_1	-	United States	North Carolina	-	Modern Pattern
+USA	USA.35_1	-	United States	North Dakota	-	Modern Pattern
+USA	USA.36_1	-	United States	Ohio	-	Modern Pattern
+USA	USA.37_1	-	United States	Oklahoma	-	Modern Pattern
+USA	USA.38_1	-	United States	Oregon	-	High Plains Pattern
+USA	USA.39_1	-	United States	Pennsylvania	-	Polar Pattern
+USA	USA.40_1	-	United States	Rhode Island	-	Polar Pattern
+USA	USA.41_1	-	United States	South Carolina	-	Modern Pattern
+USA	USA.42_1	-	United States	South Dakota	-	Modern Pattern
+USA	USA.43_1	-	United States	Tennessee	-	Modern Pattern
+USA	USA.44_1	-	United States	Texas	-	Modern Pattern
+USA	USA.45_1	-	United States	Utah	-	High Plains Pattern
+USA	USA.46_1	-	United States	Vermont	-	Polar Pattern
+USA	USA.47_1	-	United States	Virginia	-	Modern Pattern
+USA	USA.48_1	-	United States	Washington	-	High Plains Pattern
+USA	USA.49_1	-	United States	West Virginia	-	Modern Pattern
+USA	USA.50_1	-	United States	Wisconsin	-	Polar Pattern
+USA	USA.51_1	-	United States	Wyoming	-	Modern Pattern
+UZB	-	-	Uzbekistan	-	-	Cannot be selected
+VAT	-	-	Vatican City	-	-	Marine Pattern
+VCT	-	-	Saint Vincent and the Grenadines	-	-	Archipelago Pattern
+VEN	VEN.1_1	-	Venezuela	Amazonas	-	Jungle Pattern
+VEN	VEN.2_1	-	Venezuela	Anzoátegui	-	Archipelago Pattern
+VEN	VEN.3_1	-	Venezuela	Apure	-	Jungle Pattern
+VEN	VEN.4_1	-	Venezuela	Aragua	-	Archipelago Pattern
+VEN	VEN.5_1	-	Venezuela	Barinas	-	Jungle Pattern
+VEN	VEN.6_1	-	Venezuela	Bolívar	-	Jungle Pattern
+VEN	VEN.7_1	-	Venezuela	Carabobo	-	Archipelago Pattern
+VEN	VEN.8_1	-	Venezuela	Cojedes	-	Jungle Pattern
+VEN	VEN.9_1	-	Venezuela	Delta Amacuro	-	Jungle Pattern
+VEN	VEN.10_1	-	Venezuela	Dependencias Federales	-	Archipelago Pattern
+VEN	VEN.11_1	-	Venezuela	Distrito Capital	-	Archipelago Pattern
+VEN	VEN.12_1	-	Venezuela	Falcón	-	Archipelago Pattern
+VEN	VEN.13_1	-	Venezuela	Guárico	-	Jungle Pattern
+VEN	VEN.14_1	-	Venezuela	Lara	-	Archipelago Pattern
+VEN	VEN.15_1	-	Venezuela	Mérida	-	Jungle Pattern
+VEN	VEN.16_1	-	Venezuela	Miranda	-	Archipelago Pattern
+VEN	VEN.17_1	-	Venezuela	Monagas	-	Jungle Pattern
+VEN	VEN.18_1	-	Venezuela	Nueva Esparta	-	Archipelago Pattern
+VEN	VEN.19_1	-	Venezuela	Portuguesa	-	Jungle Pattern
+VEN	VEN.20_1	-	Venezuela	Sucre	-	Archipelago Pattern
+VEN	VEN.21_1	-	Venezuela	Táchira	-	Jungle Pattern
+VEN	VEN.22_1	-	Venezuela	Trujillo	-	Jungle Pattern
+VEN	VEN.23_1	-	Venezuela	Vargas	-	Archipelago Pattern
+VEN	VEN.24_1	-	Venezuela	Yaracuy	-	Archipelago Pattern
+VEN	VEN.25_1	-	Venezuela	Zulia	-	Archipelago Pattern
+VGB	-	-	British Virgin Islands	-	-	Archipelago Pattern
+VIR	-	-	Virgin Islands, U.S.	-	-	Archipelago Pattern
+VNM	-	-	Vietnam	-	-	Cannot be selected
+VUT	-	-	Vanuatu	-	-	Cannot be selected
+WLF	-	-	Wallis and Futuna	-	-	Cannot be selected
+WSM	-	-	Samoa	-	-	Cannot be selected
+XAD	-	-	Akrotiri and Dhekelia	-	-	Sandstorm Pattern
+XCA	-	-	Caspian Sea	-	-	Cannot be selected
+XCL	-	-	Clipperton Island	-	-	Cannot be selected
+XKO	-	-	Kosovo	-	-	Marine Pattern
+XPI	-	-	Paracel Islands	-	-	Cannot be selected
+XSP	-	-	Spratly Islands	-	-	Cannot be selected
+YEM	-	-	Yemen	-	-	Cannot be selected
+ZAF	ZAF.1_1	-	South Africa	Eastern Cape	-	Archipelago Pattern
+ZAF	ZAF.2_1	-	South Africa	Free State	-	River Pattern
+ZAF	ZAF.3_1	-	South Africa	Gauteng	-	River Pattern
+ZAF	ZAF.4_1	-	South Africa	KwaZulu-Natal	-	Sun Pattern
+ZAF	ZAF.5_1	-	South Africa	Limpopo	-	River Pattern
+ZAF	ZAF.6_1	-	South Africa	Mpumalanga	-	Sun Pattern
+ZAF	ZAF.7_1	-	South Africa	North West	-	River Pattern
+ZAF	ZAF.8_1	-	South Africa	Northern Cape	-	River Pattern
+ZAF	ZAF.9_1	-	South Africa	Western Cape	-	Archipelago Pattern
+ZMB	-	-	Zambia	-	-	Sun Pattern
+ZNC	-	-	Northern Cyprus	-	-	Sandstorm Pattern
+ZWE	-	-	Zimbabwe	-	-	Sun Pattern
