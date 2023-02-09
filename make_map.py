@@ -4,6 +4,7 @@ import json
 import os
 import urllib.request
 import zipfile
+import typing
 
 from concurrent.futures import ThreadPoolExecutor
 
@@ -129,7 +130,8 @@ def load_gpkg_files(shift: int | float = 0) -> tuple[gpd.GeoDataFrame, gpd.GeoDa
             data, data_outline = f.result()
             df.append(data)
             df_outline.append(data_outline)
-    return pd.concat(df).reset_index(drop=True), pd.concat(df_outline).reset_index(drop=True)
+    return typing.cast((pd.concat(df).reset_index(drop=True), pd.concat(df_outline).reset_index(drop=True)),
+                       tuple[gpd.GeoDataFrame, gpd.GeoDataFrame])
 
 
 def load_areas_from_gpkg(shift: int | float = 0, save_pickle: bool = True) -> tuple[gpd.GeoDataFrame, gpd.GeoDataFrame]:
@@ -367,7 +369,8 @@ def make_map(*,
 
     if plot_squares:
         print("Plotting squares...")
-        squares_arr = pd.read_csv('data_squares.tsv', sep='\t', header=None).values.tolist()
+        squares_arr: list[list[int]] = \
+            typing.cast(pd.read_csv('data_squares.tsv', sep='\t', header=None).values.tolist(), list[list[int]])
         squares_geo = gpd.GeoSeries(
             [shapely.geometry.box((x := (180 + 10 * j - 30) % 360 - 180),
                                   (y := 90 - (10 * i)),
@@ -437,8 +440,13 @@ def make_map(*,
 
 
 if __name__ == '__main__':
-    SHIFT = 0  # 0 for a map centered on the Prime Meridian, 150 for a map centered on the Pacific
+    import gc
+    import sys
     download_gadm()
-    make_map(shift=SHIFT, language="en", save_pickle=True, load_pickle=False)
-    for LANGUAGE in ["de", "es", "fr", "it", "ja", "ko", "zh-Hant", "zh-Hans"]:
-        make_map(shift=SHIFT, language=LANGUAGE, save_pickle=False, load_pickle=True)
+    for SHIFT in [0, 150]:  # 0 for a map centered on the Prime Meridian, 150 for a map centered on the Pacific
+        make_map(shift=SHIFT, language="en", save_pickle=True, load_pickle=False)
+        gc.collect()
+        for LANGUAGE in ["de", "es", "fr", "it", "ja", "ko", "zh-Hant", "zh-Hans"]:
+            make_map(shift=SHIFT, language=LANGUAGE, save_pickle=False, load_pickle=True)
+            gc.collect()
+    sys.exit()

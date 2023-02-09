@@ -998,26 +998,6 @@
 		"region": "US",
 		"divisions": [
 			{
-				"index": 0,
-				"name": {
-					"ja-JP": "—",
-					"en-US": "—",
-					"fr-FR": "—",
-					"de-DE": "—",
-					"it-IT": "—",
-					"es-ES": "—",
-					"zh-CN": "—",
-					"ko-KR": "—",
-					"nl-NL": "—",
-					"pt-PT": "—",
-					"ru-RU": "—",
-					"zh-TW": "—"
-				},
-				"latitude": 18.21533203125,
-				"longitude": -63.0450439453125,
-				"form": 9
-			},
-			{
 				"index": 1,
 				"name": {
 					"ja-JP": "アンギラ",
@@ -1758,26 +1738,6 @@
 		"region": "US",
 		"divisions": [
 			{
-				"index": 0,
-				"name": {
-					"ja-JP": "—",
-					"en-US": "—",
-					"fr-FR": "—",
-					"de-DE": "—",
-					"it-IT": "—",
-					"es-ES": "—",
-					"zh-CN": "—",
-					"ko-KR": "—",
-					"nl-NL": "—",
-					"pt-PT": "—",
-					"ru-RU": "—",
-					"zh-TW": "—"
-				},
-				"latitude": 12.513427734375,
-				"longitude": -70.0323486328125,
-				"form": 9
-			},
-			{
 				"index": 1,
 				"name": {
 					"ja-JP": "アルバ",
@@ -1818,26 +1778,6 @@
 		"region": "US",
 		"divisions": [
 			{
-				"index": 0,
-				"name": {
-					"ja-JP": "—",
-					"en-US": "—",
-					"fr-FR": "—",
-					"de-DE": "—",
-					"it-IT": "—",
-					"es-ES": "—",
-					"zh-CN": "—",
-					"ko-KR": "—",
-					"nl-NL": "—",
-					"pt-PT": "—",
-					"ru-RU": "—",
-					"zh-TW": "—"
-				},
-				"latitude": 25.081787109375,
-				"longitude": -77.3492431640625,
-				"form": 9
-			},
-			{
 				"index": 1,
 				"name": {
 					"ja-JP": "バハマ",
@@ -1877,26 +1817,6 @@
 		},
 		"region": "US",
 		"divisions": [
-			{
-				"index": 0,
-				"name": {
-					"ja-JP": "—",
-					"en-US": "—",
-					"fr-FR": "—",
-					"de-DE": "—",
-					"it-IT": "—",
-					"es-ES": "—",
-					"zh-CN": "—",
-					"ko-KR": "—",
-					"nl-NL": "—",
-					"pt-PT": "—",
-					"ru-RU": "—",
-					"zh-TW": "—"
-				},
-				"latitude": 13.095703125,
-				"longitude": -59.61181640625,
-				"form": 9
-			},
 			{
 				"index": 1,
 				"name": {
@@ -2898,26 +2818,6 @@
 		"region": "US",
 		"divisions": [
 			{
-				"index": 0,
-				"name": {
-					"ja-JP": "—",
-					"en-US": "—",
-					"fr-FR": "—",
-					"de-DE": "—",
-					"it-IT": "—",
-					"es-ES": "—",
-					"zh-CN": "—",
-					"ko-KR": "—",
-					"nl-NL": "—",
-					"pt-PT": "—",
-					"ru-RU": "—",
-					"zh-TW": "—"
-				},
-				"latitude": 18.4130859375,
-				"longitude": -64.6160888671875,
-				"form": 9
-			},
-			{
 				"index": 1,
 				"name": {
 					"ja-JP": "英領ヴァージン諸島",
@@ -3257,26 +3157,6 @@
 		},
 		"region": "US",
 		"divisions": [
-			{
-				"index": 0,
-				"name": {
-					"ja-JP": "—",
-					"en-US": "—",
-					"fr-FR": "—",
-					"de-DE": "—",
-					"it-IT": "—",
-					"es-ES": "—",
-					"zh-CN": "—",
-					"ko-KR": "—",
-					"nl-NL": "—",
-					"pt-PT": "—",
-					"ru-RU": "—",
-					"zh-TW": "—"
-				},
-				"latitude": 19.2974853515625,
-				"longitude": -81.3812255859375,
-				"form": 15
-			},
 			{
 				"index": 1,
 				"name": {
@@ -4497,26 +4377,6 @@
 		},
 		"region": "US",
 		"divisions": [
-			{
-				"index": 0,
-				"name": {
-					"ja-JP": "—",
-					"en-US": "—",
-					"fr-FR": "—",
-					"de-DE": "—",
-					"it-IT": "—",
-					"es-ES": "—",
-					"zh-CN": "—",
-					"ko-KR": "—",
-					"nl-NL": "—",
-					"pt-PT": "—",
-					"ru-RU": "—",
-					"zh-TW": "—"
-				},
-				"latitude": 15.2984619140625,
-				"longitude": -61.3970947265625,
-				"form": 9
-			},
 			{
 				"index": 1,
 				"name": {
@@ -6038,26 +5898,6 @@
 		"region": "US",
 		"divisions": [
 			{
-				"index": 0,
-				"name": {
-					"ja-JP": "—",
-					"en-US": "—",
-					"fr-FR": "—",
-					"de-DE": "—",
-					"it-IT": "—",
-					"es-ES": "—",
-					"zh-CN": "—",
-					"ko-KR": "—",
-					"nl-NL": "—",
-					"pt-PT": "—",
-					"ru-RU": "—",
-					"zh-TW": "—"
-				},
-				"latitude": 4.932861328125,
-				"longitude": -52.327880859375,
-				"form": 17
-			},
-			{
 				"index": 1,
 				"name": {
 					"ja-JP": "フランス領ギアナ",
@@ -6098,26 +5938,6 @@
 		"region": "US",
 		"divisions": [
 			{
-				"index": 0,
-				"name": {
-					"ja-JP": "—",
-					"en-US": "—",
-					"fr-FR": "—",
-					"de-DE": "—",
-					"it-IT": "—",
-					"es-ES": "—",
-					"zh-CN": "—",
-					"ko-KR": "—",
-					"nl-NL": "—",
-					"pt-PT": "—",
-					"ru-RU": "—",
-					"zh-TW": "—"
-				},
-				"latitude": 12.0465087890625,
-				"longitude": -61.7486572265625,
-				"form": 9
-			},
-			{
 				"index": 1,
 				"name": {
 					"ja-JP": "グレナダ",
@@ -6157,26 +5977,6 @@
 		},
 		"region": "US",
 		"divisions": [
-			{
-				"index": 0,
-				"name": {
-					"ja-JP": "—",
-					"en-US": "—",
-					"fr-FR": "—",
-					"de-DE": "—",
-					"it-IT": "—",
-					"es-ES": "—",
-					"zh-CN": "—",
-					"ko-KR": "—",
-					"nl-NL": "—",
-					"pt-PT": "—",
-					"ru-RU": "—",
-					"zh-TW": "—"
-				},
-				"latitude": 15.99609375,
-				"longitude": -61.7156982421875,
-				"form": 9
-			},
 			{
 				"index": 1,
 				"name": {
@@ -7898,26 +7698,6 @@
 		"region": "US",
 		"divisions": [
 			{
-				"index": 0,
-				"name": {
-					"ja-JP": "—",
-					"en-US": "—",
-					"fr-FR": "—",
-					"de-DE": "—",
-					"it-IT": "—",
-					"es-ES": "—",
-					"zh-CN": "—",
-					"ko-KR": "—",
-					"nl-NL": "—",
-					"pt-PT": "—",
-					"ru-RU": "—",
-					"zh-TW": "—"
-				},
-				"latitude": 14.5953369140625,
-				"longitude": -61.0784912109375,
-				"form": 9
-			},
-			{
 				"index": 1,
 				"name": {
 					"ja-JP": "マルティニーク",
@@ -8638,26 +8418,6 @@
 		"region": "US",
 		"divisions": [
 			{
-				"index": 0,
-				"name": {
-					"ja-JP": "—",
-					"en-US": "—",
-					"fr-FR": "—",
-					"de-DE": "—",
-					"it-IT": "—",
-					"es-ES": "—",
-					"zh-CN": "—",
-					"ko-KR": "—",
-					"nl-NL": "—",
-					"pt-PT": "—",
-					"ru-RU": "—",
-					"zh-TW": "—"
-				},
-				"latitude": 16.69921875,
-				"longitude": -62.215576171875,
-				"form": 9
-			},
-			{
 				"index": 1,
 				"name": {
 					"ja-JP": "モントセラト",
@@ -8697,26 +8457,6 @@
 		},
 		"region": "US",
 		"divisions": [
-			{
-				"index": 0,
-				"name": {
-					"ja-JP": "—",
-					"en-US": "—",
-					"fr-FR": "—",
-					"de-DE": "—",
-					"it-IT": "—",
-					"es-ES": "—",
-					"zh-CN": "—",
-					"ko-KR": "—",
-					"nl-NL": "—",
-					"pt-PT": "—",
-					"ru-RU": "—",
-					"zh-TW": "—"
-				},
-				"latitude": 12.095947265625,
-				"longitude": -68.9117431640625,
-				"form": 9
-			},
 			{
 				"index": 1,
 				"name": {
@@ -8947,7 +8687,7 @@
 					"it-IT": "León",
 					"es-ES": "León",
 					"zh-CN": "莱昂省",
-					"ko-KR": "레온 주",
+					"ko-KR": "레온",
 					"nl-NL": "León",
 					"pt-PT": "León",
 					"ru-RU": "Леон",
@@ -10547,7 +10287,7 @@
 					"it-IT": "Saint Peter Basseterre",
 					"es-ES": "Saint Peter Basseterre",
 					"zh-CN": "圣彼得巴斯特尔区",
-					"ko-KR": "세인트폴바스테르",
+					"ko-KR": "세인트피터바스테르",
 					"nl-NL": "Saint Peter Basseterre",
 					"pt-PT": "Saint Peter Basseterre",
 					"ru-RU": "Сент-Питер-Бастер",
@@ -10638,26 +10378,6 @@
 		"region": "US",
 		"divisions": [
 			{
-				"index": 0,
-				"name": {
-					"ja-JP": "—",
-					"en-US": "—",
-					"fr-FR": "—",
-					"de-DE": "—",
-					"it-IT": "—",
-					"es-ES": "—",
-					"zh-CN": "—",
-					"ko-KR": "—",
-					"nl-NL": "—",
-					"pt-PT": "—",
-					"ru-RU": "—",
-					"zh-TW": "—"
-				},
-				"latitude": 13.99658203125,
-				"longitude": -60.99609375,
-				"form": 9
-			},
-			{
 				"index": 1,
 				"name": {
 					"ja-JP": "セントルシア",
@@ -10697,26 +10417,6 @@
 		},
 		"region": "US",
 		"divisions": [
-			{
-				"index": 0,
-				"name": {
-					"ja-JP": "—",
-					"en-US": "—",
-					"fr-FR": "—",
-					"de-DE": "—",
-					"it-IT": "—",
-					"es-ES": "—",
-					"zh-CN": "—",
-					"ko-KR": "—",
-					"nl-NL": "—",
-					"pt-PT": "—",
-					"ru-RU": "—",
-					"zh-TW": "—"
-				},
-				"latitude": 13.128662109375,
-				"longitude": -61.2158203125,
-				"form": 9
-			},
 			{
 				"index": 1,
 				"name": {
@@ -11227,7 +10927,7 @@
 					"it-IT": "Tobago",
 					"es-ES": "Tobago",
 					"zh-CN": "多巴哥岛",
-					"ko-KR": "토바고",
+					"ko-KR": "토바고 섬",
 					"nl-NL": "Tobago",
 					"pt-PT": "Tobago",
 					"ru-RU": "Тобаго",
@@ -11297,26 +10997,6 @@
 		},
 		"region": "US",
 		"divisions": [
-			{
-				"index": 0,
-				"name": {
-					"ja-JP": "—",
-					"en-US": "—",
-					"fr-FR": "—",
-					"de-DE": "—",
-					"it-IT": "—",
-					"es-ES": "—",
-					"zh-CN": "—",
-					"ko-KR": "—",
-					"nl-NL": "—",
-					"pt-PT": "—",
-					"ru-RU": "—",
-					"zh-TW": "—"
-				},
-				"latitude": 21.4617919921875,
-				"longitude": -71.1309814453125,
-				"form": 9
-			},
 			{
 				"index": 1,
 				"name": {
@@ -12407,7 +12087,7 @@
 					"it-IT": "Porto Rico",
 					"es-ES": "Puerto Rico",
 					"zh-CN": "波多黎各",
-					"ko-KR": "푸에르토리코 주",
+					"ko-KR": "푸에르토리코",
 					"nl-NL": "Puerto Rico",
 					"pt-PT": "Porto Rico",
 					"ru-RU": "Пуэрто-Рико",
@@ -12469,7 +12149,7 @@
 					"zh-CN": "蒙得维的亚省",
 					"ko-KR": "몬테비데오",
 					"nl-NL": "Montevideo",
-					"pt-PT": "Montevidéu",
+					"pt-PT": "Montevideu",
 					"ru-RU": "Монтевидео",
 					"zh-TW": "Montevideo"
 				},
@@ -12857,26 +12537,6 @@
 		},
 		"region": "US",
 		"divisions": [
-			{
-				"index": 0,
-				"name": {
-					"ja-JP": "—",
-					"en-US": "—",
-					"fr-FR": "—",
-					"de-DE": "—",
-					"it-IT": "—",
-					"es-ES": "—",
-					"zh-CN": "—",
-					"ko-KR": "—",
-					"nl-NL": "—",
-					"pt-PT": "—",
-					"ru-RU": "—",
-					"zh-TW": "—"
-				},
-				"latitude": 18.3416748046875,
-				"longitude": -64.92919921875,
-				"form": 9
-			},
 			{
 				"index": 1,
 				"name": {
@@ -14358,26 +14018,6 @@
 		"region": "EU",
 		"divisions": [
 			{
-				"index": 0,
-				"name": {
-					"ja-JP": "—",
-					"en-US": "—",
-					"fr-FR": "—",
-					"de-DE": "—",
-					"it-IT": "—",
-					"es-ES": "—",
-					"zh-CN": "—",
-					"ko-KR": "—",
-					"nl-NL": "—",
-					"pt-PT": "—",
-					"ru-RU": "—",
-					"zh-TW": "—"
-				},
-				"latitude": -24.6478271484375,
-				"longitude": 25.9002685546875,
-				"form": 12
-			},
-			{
 				"index": 1,
 				"name": {
 					"ja-JP": "ボツワナ",
@@ -15478,26 +15118,6 @@
 		"region": "EU",
 		"divisions": [
 			{
-				"index": 0,
-				"name": {
-					"ja-JP": "—",
-					"en-US": "—",
-					"fr-FR": "—",
-					"de-DE": "—",
-					"it-IT": "—",
-					"es-ES": "—",
-					"zh-CN": "—",
-					"ko-KR": "—",
-					"nl-NL": "—",
-					"pt-PT": "—",
-					"ru-RU": "—",
-					"zh-TW": "—"
-				},
-				"latitude": 35.1617431640625,
-				"longitude": 33.3709716796875,
-				"form": 11
-			},
-			{
 				"index": 1,
 				"name": {
 					"ja-JP": "キプロス",
@@ -15908,7 +15528,7 @@
 					"es-ES": "Hovedstaden",
 					"zh-CN": "首都大区",
 					"ko-KR": "덴마크 수도권 지역",
-					"nl-NL": "Hoofdstad",
+					"nl-NL": "Hovedstaden",
 					"pt-PT": "Hovedstaden",
 					"ru-RU": "Столичная область",
 					"zh-TW": "Capital Region of Denmark"
@@ -16037,26 +15657,6 @@
 		},
 		"region": "EU",
 		"divisions": [
-			{
-				"index": 0,
-				"name": {
-					"ja-JP": "—",
-					"en-US": "—",
-					"fr-FR": "—",
-					"de-DE": "—",
-					"it-IT": "—",
-					"es-ES": "—",
-					"zh-CN": "—",
-					"ko-KR": "—",
-					"nl-NL": "—",
-					"pt-PT": "—",
-					"ru-RU": "—",
-					"zh-TW": "—"
-				},
-				"latitude": 59.4305419921875,
-				"longitude": 24.730224609375,
-				"form": 3
-			},
 			{
 				"index": 1,
 				"name": {
@@ -18198,26 +17798,6 @@
 		"region": "EU",
 		"divisions": [
 			{
-				"index": 0,
-				"name": {
-					"ja-JP": "—",
-					"en-US": "—",
-					"fr-FR": "—",
-					"de-DE": "—",
-					"it-IT": "—",
-					"es-ES": "—",
-					"zh-CN": "—",
-					"ko-KR": "—",
-					"nl-NL": "—",
-					"pt-PT": "—",
-					"ru-RU": "—",
-					"zh-TW": "—"
-				},
-				"latitude": 64.1326904296875,
-				"longitude": -21.8902587890625,
-				"form": 2
-			},
-			{
 				"index": 1,
 				"name": {
 					"ja-JP": "アイスランド",
@@ -18888,7 +18468,7 @@
 					"es-ES": "Piamonte",
 					"zh-CN": "皮埃蒙特大区",
 					"ko-KR": "피에몬테 주",
-					"nl-NL": "Piemonte",
+					"nl-NL": "Piëmont",
 					"pt-PT": "Piemonte",
 					"ru-RU": "Пьемонт",
 					"zh-TW": "Piedmont"
@@ -19258,26 +18838,6 @@
 		"region": "EU",
 		"divisions": [
 			{
-				"index": 0,
-				"name": {
-					"ja-JP": "—",
-					"en-US": "—",
-					"fr-FR": "—",
-					"de-DE": "—",
-					"it-IT": "—",
-					"es-ES": "—",
-					"zh-CN": "—",
-					"ko-KR": "—",
-					"nl-NL": "—",
-					"pt-PT": "—",
-					"ru-RU": "—",
-					"zh-TW": "—"
-				},
-				"latitude": 56.9476318359375,
-				"longitude": 24.08203125,
-				"form": 3
-			},
-			{
 				"index": 1,
 				"name": {
 					"ja-JP": "ラトビア",
@@ -19557,26 +19117,6 @@
 		},
 		"region": "EU",
 		"divisions": [
-			{
-				"index": 0,
-				"name": {
-					"ja-JP": "—",
-					"en-US": "—",
-					"fr-FR": "—",
-					"de-DE": "—",
-					"it-IT": "—",
-					"es-ES": "—",
-					"zh-CN": "—",
-					"ko-KR": "—",
-					"nl-NL": "—",
-					"pt-PT": "—",
-					"ru-RU": "—",
-					"zh-TW": "—"
-				},
-				"latitude": 47.1368408203125,
-				"longitude": 9.5196533203125,
-				"form": 6
-			},
 			{
 				"index": 1,
 				"name": {
@@ -19858,26 +19398,6 @@
 		"region": "EU",
 		"divisions": [
 			{
-				"index": 0,
-				"name": {
-					"ja-JP": "—",
-					"en-US": "—",
-					"fr-FR": "—",
-					"de-DE": "—",
-					"it-IT": "—",
-					"es-ES": "—",
-					"zh-CN": "—",
-					"ko-KR": "—",
-					"nl-NL": "—",
-					"pt-PT": "—",
-					"ru-RU": "—",
-					"zh-TW": "—"
-				},
-				"latitude": 49.6087646484375,
-				"longitude": 6.1248779296875,
-				"form": 6
-			},
-			{
 				"index": 1,
 				"name": {
 					"ja-JP": "ルクセンブルク",
@@ -19917,26 +19437,6 @@
 		},
 		"region": "EU",
 		"divisions": [
-			{
-				"index": 0,
-				"name": {
-					"ja-JP": "—",
-					"en-US": "—",
-					"fr-FR": "—",
-					"de-DE": "—",
-					"it-IT": "—",
-					"es-ES": "—",
-					"zh-CN": "—",
-					"ko-KR": "—",
-					"nl-NL": "—",
-					"pt-PT": "—",
-					"ru-RU": "—",
-					"zh-TW": "—"
-				},
-				"latitude": 41.9952392578125,
-				"longitude": 21.4288330078125,
-				"form": 8
-			},
 			{
 				"index": 1,
 				"name": {
@@ -19978,26 +19478,6 @@
 		"region": "EU",
 		"divisions": [
 			{
-				"index": 0,
-				"name": {
-					"ja-JP": "—",
-					"en-US": "—",
-					"fr-FR": "—",
-					"de-DE": "—",
-					"it-IT": "—",
-					"es-ES": "—",
-					"zh-CN": "—",
-					"ko-KR": "—",
-					"nl-NL": "—",
-					"pt-PT": "—",
-					"ru-RU": "—",
-					"zh-TW": "—"
-				},
-				"latitude": 35.8978271484375,
-				"longitude": 14.512939453125,
-				"form": 8
-			},
-			{
 				"index": 1,
 				"name": {
 					"ja-JP": "マルタ",
@@ -20037,26 +19517,6 @@
 		},
 		"region": "EU",
 		"divisions": [
-			{
-				"index": 0,
-				"name": {
-					"ja-JP": "—",
-					"en-US": "—",
-					"fr-FR": "—",
-					"de-DE": "—",
-					"it-IT": "—",
-					"es-ES": "—",
-					"zh-CN": "—",
-					"ko-KR": "—",
-					"nl-NL": "—",
-					"pt-PT": "—",
-					"ru-RU": "—",
-					"zh-TW": "—"
-				},
-				"latitude": 42.4346923828125,
-				"longitude": 19.2645263671875,
-				"form": 8
-			},
 			{
 				"index": 1,
 				"name": {
@@ -20098,26 +19558,6 @@
 		"region": "EU",
 		"divisions": [
 			{
-				"index": 0,
-				"name": {
-					"ja-JP": "—",
-					"en-US": "—",
-					"fr-FR": "—",
-					"de-DE": "—",
-					"it-IT": "—",
-					"es-ES": "—",
-					"zh-CN": "—",
-					"ko-KR": "—",
-					"nl-NL": "—",
-					"pt-PT": "—",
-					"ru-RU": "—",
-					"zh-TW": "—"
-				},
-				"latitude": -25.9661865234375,
-				"longitude": 32.5634765625,
-				"form": 15
-			},
-			{
 				"index": 1,
 				"name": {
 					"ja-JP": "モザンビーク",
@@ -20157,26 +19597,6 @@
 		},
 		"region": "EU",
 		"divisions": [
-			{
-				"index": 0,
-				"name": {
-					"ja-JP": "—",
-					"en-US": "—",
-					"fr-FR": "—",
-					"de-DE": "—",
-					"it-IT": "—",
-					"es-ES": "—",
-					"zh-CN": "—",
-					"ko-KR": "—",
-					"nl-NL": "—",
-					"pt-PT": "—",
-					"ru-RU": "—",
-					"zh-TW": "—"
-				},
-				"latitude": -22.5494384765625,
-				"longitude": 17.0782470703125,
-				"form": 12
-			},
 			{
 				"index": 1,
 				"name": {
@@ -24678,26 +24098,6 @@
 		"region": "EU",
 		"divisions": [
 			{
-				"index": 0,
-				"name": {
-					"ja-JP": "—",
-					"en-US": "—",
-					"fr-FR": "—",
-					"de-DE": "—",
-					"it-IT": "—",
-					"es-ES": "—",
-					"zh-CN": "—",
-					"ko-KR": "—",
-					"nl-NL": "—",
-					"pt-PT": "—",
-					"ru-RU": "—",
-					"zh-TW": "—"
-				},
-				"latitude": 44.8297119140625,
-				"longitude": 20.4840087890625,
-				"form": 8
-			},
-			{
 				"index": 1,
 				"name": {
 					"ja-JP": "セルビア・コソヴォ",
@@ -24937,26 +24337,6 @@
 		},
 		"region": "EU",
 		"divisions": [
-			{
-				"index": 0,
-				"name": {
-					"ja-JP": "—",
-					"en-US": "—",
-					"fr-FR": "—",
-					"de-DE": "—",
-					"it-IT": "—",
-					"es-ES": "—",
-					"zh-CN": "—",
-					"ko-KR": "—",
-					"nl-NL": "—",
-					"pt-PT": "—",
-					"ru-RU": "—",
-					"zh-TW": "—"
-				},
-				"latitude": 46.0491943359375,
-				"longitude": 14.501953125,
-				"form": 8
-			},
 			{
 				"index": 1,
 				"name": {
@@ -25324,7 +24704,7 @@
 					"en-US": "Balearic Islands",
 					"fr-FR": "Îles Baléares",
 					"de-DE": "Balearische Inseln",
-					"it-IT": "Isole Baleari",
+					"it-IT": "Baleari",
 					"es-ES": "Illes Balears",
 					"zh-CN": "巴利阿里自治区",
 					"ko-KR": "발레아레스 제도",
@@ -25344,7 +24724,7 @@
 					"en-US": "Canary Islands",
 					"fr-FR": "Îles Canaries",
 					"de-DE": "Kanarische Inseln",
-					"it-IT": "Isole Canarie",
+					"it-IT": "Canarie",
 					"es-ES": "Canarias",
 					"zh-CN": "加那利自治区",
 					"ko-KR": "카나리아 제도",
@@ -25444,7 +24824,7 @@
 					"en-US": "Valencia",
 					"fr-FR": "Valence",
 					"de-DE": "Valencia",
-					"it-IT": "Comunità Valenziana",
+					"it-IT": "Comunità Valenciana",
 					"es-ES": "Comunitat Valenciana",
 					"zh-CN": "巴伦西亚自治区",
 					"ko-KR": "발렌시아 주",
@@ -28558,26 +27938,6 @@
 		"region": "EU",
 		"divisions": [
 			{
-				"index": 0,
-				"name": {
-					"ja-JP": "—",
-					"en-US": "—",
-					"fr-FR": "—",
-					"de-DE": "—",
-					"it-IT": "—",
-					"es-ES": "—",
-					"zh-CN": "—",
-					"ko-KR": "—",
-					"nl-NL": "—",
-					"pt-PT": "—",
-					"ru-RU": "—",
-					"zh-TW": "—"
-				},
-				"latitude": -15.413818359375,
-				"longitude": 28.27880859375,
-				"form": 15
-			},
-			{
 				"index": 1,
 				"name": {
 					"ja-JP": "ザンビア",
@@ -28617,26 +27977,6 @@
 		},
 		"region": "EU",
 		"divisions": [
-			{
-				"index": 0,
-				"name": {
-					"ja-JP": "—",
-					"en-US": "—",
-					"fr-FR": "—",
-					"de-DE": "—",
-					"it-IT": "—",
-					"es-ES": "—",
-					"zh-CN": "—",
-					"ko-KR": "—",
-					"nl-NL": "—",
-					"pt-PT": "—",
-					"ru-RU": "—",
-					"zh-TW": "—"
-				},
-				"latitude": -17.81982421875,
-				"longitude": 31.04736328125,
-				"form": 15
-			},
 			{
 				"index": 1,
 				"name": {
@@ -28678,26 +28018,6 @@
 		"region": "EU",
 		"divisions": [
 			{
-				"index": 0,
-				"name": {
-					"ja-JP": "—",
-					"en-US": "—",
-					"fr-FR": "—",
-					"de-DE": "—",
-					"it-IT": "—",
-					"es-ES": "—",
-					"zh-CN": "—",
-					"ko-KR": "—",
-					"nl-NL": "—",
-					"pt-PT": "—",
-					"ru-RU": "—",
-					"zh-TW": "—"
-				},
-				"latitude": 40.374755859375,
-				"longitude": 49.888916015625,
-				"form": 10
-			},
-			{
 				"index": 1,
 				"name": {
 					"ja-JP": "アゼルバイジャン",
@@ -28737,26 +28057,6 @@
 		},
 		"region": "EU",
 		"divisions": [
-			{
-				"index": 0,
-				"name": {
-					"ja-JP": "—",
-					"en-US": "—",
-					"fr-FR": "—",
-					"de-DE": "—",
-					"it-IT": "—",
-					"es-ES": "—",
-					"zh-CN": "—",
-					"ko-KR": "—",
-					"nl-NL": "—",
-					"pt-PT": "—",
-					"ru-RU": "—",
-					"zh-TW": "—"
-				},
-				"latitude": 18.0999755859375,
-				"longitude": -15.9466552734375,
-				"form": 12
-			},
 			{
 				"index": 1,
 				"name": {
@@ -28798,26 +28098,6 @@
 		"region": "EU",
 		"divisions": [
 			{
-				"index": 0,
-				"name": {
-					"ja-JP": "—",
-					"en-US": "—",
-					"fr-FR": "—",
-					"de-DE": "—",
-					"it-IT": "—",
-					"es-ES": "—",
-					"zh-CN": "—",
-					"ko-KR": "—",
-					"nl-NL": "—",
-					"pt-PT": "—",
-					"ru-RU": "—",
-					"zh-TW": "—"
-				},
-				"latitude": 12.645263671875,
-				"longitude": -7.998046875,
-				"form": 12
-			},
-			{
 				"index": 1,
 				"name": {
 					"ja-JP": "マリ",
@@ -28857,26 +28137,6 @@
 		},
 		"region": "EU",
 		"divisions": [
-			{
-				"index": 0,
-				"name": {
-					"ja-JP": "—",
-					"en-US": "—",
-					"fr-FR": "—",
-					"de-DE": "—",
-					"it-IT": "—",
-					"es-ES": "—",
-					"zh-CN": "—",
-					"ko-KR": "—",
-					"nl-NL": "—",
-					"pt-PT": "—",
-					"ru-RU": "—",
-					"zh-TW": "—"
-				},
-				"latitude": 13.5186767578125,
-				"longitude": 2.1038818359375,
-				"form": 12
-			},
 			{
 				"index": 1,
 				"name": {
@@ -28918,26 +28178,6 @@
 		"region": "EU",
 		"divisions": [
 			{
-				"index": 0,
-				"name": {
-					"ja-JP": "—",
-					"en-US": "—",
-					"fr-FR": "—",
-					"de-DE": "—",
-					"it-IT": "—",
-					"es-ES": "—",
-					"zh-CN": "—",
-					"ko-KR": "—",
-					"nl-NL": "—",
-					"pt-PT": "—",
-					"ru-RU": "—",
-					"zh-TW": "—"
-				},
-				"latitude": 12.10693359375,
-				"longitude": 15.0347900390625,
-				"form": 12
-			},
-			{
 				"index": 1,
 				"name": {
 					"ja-JP": "チャド",
@@ -28977,26 +28217,6 @@
 		},
 		"region": "EU",
 		"divisions": [
-			{
-				"index": 0,
-				"name": {
-					"ja-JP": "—",
-					"en-US": "—",
-					"fr-FR": "—",
-					"de-DE": "—",
-					"it-IT": "—",
-					"es-ES": "—",
-					"zh-CN": "—",
-					"ko-KR": "—",
-					"nl-NL": "—",
-					"pt-PT": "—",
-					"ru-RU": "—",
-					"zh-TW": "—"
-				},
-				"latitude": 15.6280517578125,
-				"longitude": 32.530517578125,
-				"form": 11
-			},
 			{
 				"index": 1,
 				"name": {
@@ -29038,26 +28258,6 @@
 		"region": "EU",
 		"divisions": [
 			{
-				"index": 0,
-				"name": {
-					"ja-JP": "—",
-					"en-US": "—",
-					"fr-FR": "—",
-					"de-DE": "—",
-					"it-IT": "—",
-					"es-ES": "—",
-					"zh-CN": "—",
-					"ko-KR": "—",
-					"nl-NL": "—",
-					"pt-PT": "—",
-					"ru-RU": "—",
-					"zh-TW": "—"
-				},
-				"latitude": 15.3314208984375,
-				"longitude": 38.9300537109375,
-				"form": 11
-			},
-			{
 				"index": 1,
 				"name": {
 					"ja-JP": "エリトリア",
@@ -29097,26 +28297,6 @@
 		},
 		"region": "EU",
 		"divisions": [
-			{
-				"index": 0,
-				"name": {
-					"ja-JP": "—",
-					"en-US": "—",
-					"fr-FR": "—",
-					"de-DE": "—",
-					"it-IT": "—",
-					"es-ES": "—",
-					"zh-CN": "—",
-					"ko-KR": "—",
-					"nl-NL": "—",
-					"pt-PT": "—",
-					"ru-RU": "—",
-					"zh-TW": "—"
-				},
-				"latitude": 11.5850830078125,
-				"longitude": 43.143310546875,
-				"form": 11
-			},
 			{
 				"index": 1,
 				"name": {
@@ -29158,26 +28338,6 @@
 		"region": "EU",
 		"divisions": [
 			{
-				"index": 0,
-				"name": {
-					"ja-JP": "—",
-					"en-US": "—",
-					"fr-FR": "—",
-					"de-DE": "—",
-					"it-IT": "—",
-					"es-ES": "—",
-					"zh-CN": "—",
-					"ko-KR": "—",
-					"nl-NL": "—",
-					"pt-PT": "—",
-					"ru-RU": "—",
-					"zh-TW": "—"
-				},
-				"latitude": 2.032470703125,
-				"longitude": 45.3460693359375,
-				"form": 11
-			},
-			{
 				"index": 1,
 				"name": {
 					"ja-JP": "ソマリア",
@@ -29217,26 +28377,6 @@
 		},
 		"region": "EU",
 		"divisions": [
-			{
-				"index": 0,
-				"name": {
-					"ja-JP": "—",
-					"en-US": "—",
-					"fr-FR": "—",
-					"de-DE": "—",
-					"it-IT": "—",
-					"es-ES": "—",
-					"zh-CN": "—",
-					"ko-KR": "—",
-					"nl-NL": "—",
-					"pt-PT": "—",
-					"ru-RU": "—",
-					"zh-TW": "—"
-				},
-				"latitude": 42.4951171875,
-				"longitude": 1.4996337890625,
-				"form": 6
-			},
 			{
 				"index": 1,
 				"name": {
@@ -29278,26 +28418,6 @@
 		"region": "EU",
 		"divisions": [
 			{
-				"index": 0,
-				"name": {
-					"ja-JP": "—",
-					"en-US": "—",
-					"fr-FR": "—",
-					"de-DE": "—",
-					"it-IT": "—",
-					"es-ES": "—",
-					"zh-CN": "—",
-					"ko-KR": "—",
-					"nl-NL": "—",
-					"pt-PT": "—",
-					"ru-RU": "—",
-					"zh-TW": "—"
-				},
-				"latitude": 36.1285400390625,
-				"longitude": -5.3448486328125,
-				"form": 8
-			},
-			{
 				"index": 1,
 				"name": {
 					"ja-JP": "ジブラルタル",
@@ -29337,26 +28457,6 @@
 		},
 		"region": "EU",
 		"divisions": [
-			{
-				"index": 0,
-				"name": {
-					"ja-JP": "—",
-					"en-US": "—",
-					"fr-FR": "—",
-					"de-DE": "—",
-					"it-IT": "—",
-					"es-ES": "—",
-					"zh-CN": "—",
-					"ko-KR": "—",
-					"nl-NL": "—",
-					"pt-PT": "—",
-					"ru-RU": "—",
-					"zh-TW": "—"
-				},
-				"latitude": 49.449462890625,
-				"longitude": -2.548828125,
-				"form": 8
-			},
 			{
 				"index": 1,
 				"name": {
@@ -29398,26 +28498,6 @@
 		"region": "EU",
 		"divisions": [
 			{
-				"index": 0,
-				"name": {
-					"ja-JP": "—",
-					"en-US": "—",
-					"fr-FR": "—",
-					"de-DE": "—",
-					"it-IT": "—",
-					"es-ES": "—",
-					"zh-CN": "—",
-					"ko-KR": "—",
-					"nl-NL": "—",
-					"pt-PT": "—",
-					"ru-RU": "—",
-					"zh-TW": "—"
-				},
-				"latitude": 54.16259765625,
-				"longitude": -4.482421875,
-				"form": 4
-			},
-			{
 				"index": 1,
 				"name": {
 					"ja-JP": "マン島",
@@ -29458,26 +28538,6 @@
 		"region": "EU",
 		"divisions": [
 			{
-				"index": 0,
-				"name": {
-					"ja-JP": "—",
-					"en-US": "—",
-					"fr-FR": "—",
-					"de-DE": "—",
-					"it-IT": "—",
-					"es-ES": "—",
-					"zh-CN": "—",
-					"ko-KR": "—",
-					"nl-NL": "—",
-					"pt-PT": "—",
-					"ru-RU": "—",
-					"zh-TW": "—"
-				},
-				"latitude": 49.185791015625,
-				"longitude": -2.109375,
-				"form": 8
-			},
-			{
 				"index": 1,
 				"name": {
 					"ja-JP": "ジャージー島",
@@ -29517,26 +28577,6 @@
 		},
 		"region": "EU",
 		"divisions": [
-			{
-				"index": 0,
-				"name": {
-					"ja-JP": "—",
-					"en-US": "—",
-					"fr-FR": "—",
-					"de-DE": "—",
-					"it-IT": "—",
-					"es-ES": "—",
-					"zh-CN": "—",
-					"ko-KR": "—",
-					"nl-NL": "—",
-					"pt-PT": "—",
-					"ru-RU": "—",
-					"zh-TW": "—"
-				},
-				"latitude": 43.714599609375,
-				"longitude": 7.415771484375,
-				"form": 6
-			},
 			{
 				"index": 1,
 				"name": {
@@ -29760,18 +28800,18 @@
 			{
 				"index": 10,
 				"name": {
-					"ja-JP": "桃園県",
-					"en-US": "Taoyuan County",
-					"fr-FR": "Taoyuan (comté de)",
-					"de-DE": "Kreis Taoyuan",
-					"it-IT": "Contea di Taoyuan",
-					"es-ES": "Condado de Taoyuan",
+					"ja-JP": "桃園市",
+					"en-US": "Taoyuan City",
+					"fr-FR": "Taoyuan",
+					"de-DE": "Taoyuan",
+					"it-IT": "Taoyuan",
+					"es-ES": "Ciudad de Taoyuan",
 					"zh-CN": "-",
-					"ko-KR": "타오위안 현",
+					"ko-KR": "타오위안",
 					"nl-NL": "Taoyuan",
-					"pt-PT": "Condado de Taoyuan",
-					"ru-RU": "Таоюань (уезд)",
-					"zh-TW": "桃園縣"
+					"pt-PT": "Cidade de Taoyuan",
+					"ru-RU": "Таоюань",
+					"zh-TW": "桃園市"
 				},
 				"latitude": 24.971923828125,
 				"longitude": 121.2890625,
@@ -29949,7 +28989,7 @@
 					"zh-CN": "-",
 					"ko-KR": "화롄 현",
 					"nl-NL": "Hualien",
-					"pt-PT": "Condado de Haulien",
+					"pt-PT": "Condado de Hualien",
 					"ru-RU": "Хуалянь (уезд)",
 					"zh-TW": "花蓮縣"
 				},
@@ -30418,26 +29458,6 @@
 		"region": "TW",
 		"divisions": [
 			{
-				"index": 0,
-				"name": {
-					"ja-JP": "—",
-					"en-US": "—",
-					"fr-FR": "—",
-					"de-DE": "—",
-					"it-IT": "—",
-					"es-ES": "—",
-					"zh-CN": "—",
-					"ko-KR": "—",
-					"nl-NL": "—",
-					"pt-PT": "—",
-					"ru-RU": "—",
-					"zh-TW": "—"
-				},
-				"latitude": 22.4615478515625,
-				"longitude": 114.2962646484375,
-				"form": 3
-			},
-			{
 				"index": 1,
 				"name": {
 					"ja-JP": "ホンコン",
@@ -30460,46 +29480,6 @@
 		]
 	},
 	{
-		"index": 145,
-		"name": {
-			"ja-JP": "マカオ",
-			"en-US": "Macao",
-			"fr-FR": "Macao",
-			"de-DE": "Macau",
-			"it-IT": "Macao",
-			"es-ES": "Macao",
-			"zh-CN": "中国 澳门",
-			"ko-KR": "마카오",
-			"nl-NL": "Macau",
-			"pt-PT": "Macau",
-			"ru-RU": "Макао",
-			"zh-TW": "澳門"
-		},
-		"region": "TW",
-		"divisions": [
-			{
-				"index": 0,
-				"name": {
-					"ja-JP": "—",
-					"en-US": "—",
-					"fr-FR": "—",
-					"de-DE": "—",
-					"it-IT": "—",
-					"es-ES": "—",
-					"zh-CN": "—",
-					"ko-KR": "—",
-					"nl-NL": "—",
-					"pt-PT": "—",
-					"ru-RU": "—",
-					"zh-TW": "—"
-				},
-				"latitude": 22.21435546875,
-				"longitude": 113.5986328125,
-				"form": 3
-			}
-		]
-	},
-	{
 		"index": 153,
 		"name": {
 			"ja-JP": "シンガポール",
@@ -30517,26 +29497,6 @@
 		},
 		"region": "US",
 		"divisions": [
-			{
-				"index": 0,
-				"name": {
-					"ja-JP": "—",
-					"en-US": "—",
-					"fr-FR": "—",
-					"de-DE": "—",
-					"it-IT": "—",
-					"es-ES": "—",
-					"zh-CN": "—",
-					"ko-KR": "—",
-					"nl-NL": "—",
-					"pt-PT": "—",
-					"ru-RU": "—",
-					"zh-TW": "—"
-				},
-				"latitude": 1.2908935546875,
-				"longitude": 103.853759765625,
-				"form": 17
-			},
 			{
 				"index": 1,
 				"name": {
@@ -32798,26 +31758,6 @@
 		"region": "EU",
 		"divisions": [
 			{
-				"index": 0,
-				"name": {
-					"ja-JP": "—",
-					"en-US": "—",
-					"fr-FR": "—",
-					"de-DE": "—",
-					"it-IT": "—",
-					"es-ES": "—",
-					"zh-CN": "—",
-					"ko-KR": "—",
-					"nl-NL": "—",
-					"pt-PT": "—",
-					"ru-RU": "—",
-					"zh-TW": "—"
-				},
-				"latitude": 43.9288330078125,
-				"longitude": 12.4310302734375,
-				"form": 8
-			},
-			{
 				"index": 1,
 				"name": {
 					"ja-JP": "サンマリノ",
@@ -32858,26 +31798,6 @@
 		"region": "EU",
 		"divisions": [
 			{
-				"index": 0,
-				"name": {
-					"ja-JP": "—",
-					"en-US": "—",
-					"fr-FR": "—",
-					"de-DE": "—",
-					"it-IT": "—",
-					"es-ES": "—",
-					"zh-CN": "—",
-					"ko-KR": "—",
-					"nl-NL": "—",
-					"pt-PT": "—",
-					"ru-RU": "—",
-					"zh-TW": "—"
-				},
-				"latitude": 41.8963623046875,
-				"longitude": 12.447509765625,
-				"form": 8
-			},
-			{
 				"index": 1,
 				"name": {
 					"ja-JP": "バチカン",
@@ -32912,31 +31832,11 @@
 			"ko-KR": "버뮤다",
 			"nl-NL": "Bermuda",
 			"pt-PT": "Bermudas",
-			"ru-RU": "бермудский",
+			"ru-RU": "Бермуды",
 			"zh-TW": "Bermuda"
 		},
 		"region": "US",
 		"divisions": [
-			{
-				"index": 0,
-				"name": {
-					"ja-JP": "—",
-					"en-US": "—",
-					"fr-FR": "—",
-					"de-DE": "—",
-					"it-IT": "—",
-					"es-ES": "—",
-					"zh-CN": "—",
-					"ko-KR": "—",
-					"nl-NL": "—",
-					"pt-PT": "—",
-					"ru-RU": "—",
-					"zh-TW": "—"
-				},
-				"latitude": 32.332763671875,
-				"longitude": -64.7479248046875,
-				"form": 7
-			},
 			{
 				"index": 1,
 				"name": {
@@ -32950,7 +31850,7 @@
 					"ko-KR": "버뮤다",
 					"nl-NL": "Bermuda",
 					"pt-PT": "Bermudas",
-					"ru-RU": "бермудский",
+					"ru-RU": "Бермуды",
 					"zh-TW": "Bermuda"
 				},
 				"latitude": 32.332763671875,
